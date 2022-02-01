@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Overview"
-    url: https://https://globalgrasslandgroup.github.io/overview
+    url: /overview/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
