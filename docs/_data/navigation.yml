@@ -2,10 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Datasets"
-    url: /datasets/
+  - title: "People"
+    url: /people/
   - title: "Sampling protocol"
     url: /protocol/
+  - title: "Datasets"
+    url: /datasets/
   - title: "Publications"
     url: /publications/
   - title: "Contact"
