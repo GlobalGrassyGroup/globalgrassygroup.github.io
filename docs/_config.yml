@@ -3,3 +3,4 @@ plugins:
   - jekyll-include-cache
 
 locale: "en"
+include: ["_pages"]
