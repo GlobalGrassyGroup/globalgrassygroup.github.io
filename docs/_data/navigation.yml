@@ -4,7 +4,9 @@ main:
     url: /about/
   - title: "Datasets"
     url: /datasets/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sampling protocol"
+    url: /protocol/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
