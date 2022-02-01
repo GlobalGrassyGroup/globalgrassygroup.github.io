@@ -1,0 +1,5 @@
+---
+permalink: /protocol/
+---
+
+Sampling protocol
