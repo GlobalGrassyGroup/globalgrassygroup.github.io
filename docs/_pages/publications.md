@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+layout: splash
 ---
 
-Here is a list of publication using GGG data.
+List of publications which used GGG data.
