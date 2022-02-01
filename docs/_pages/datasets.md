@@ -1,5 +1,6 @@
 ---
 permalink: /datasets/
+layout: splash
 ---
 
-### GGG has collected data over three continents, most of them in Africa. Below you can find publicly-accessible parts of our datasets.
+Here you can download publicly-accessible parts of our datasets.
