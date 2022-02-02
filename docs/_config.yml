@@ -7,4 +7,3 @@ include: ["_pages"]
 title: "Global Grassy Group"
 
 url                      : https://globalgrassygroup.github.io/
-baseurl                  : "/home" 
