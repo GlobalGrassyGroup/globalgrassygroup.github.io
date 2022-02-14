@@ -4,8 +4,10 @@ main:
     url: /about/
   - title: "People"
     url: /people/
-  - title: "Sampling protocol"
+  - title: "Sampling protocols"
     url: /protocol/
+  - title: "Resources"
+    url: /resources/
   - title: "Datasets"
     url: /datasets/
   - title: "Publications"
