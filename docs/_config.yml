@@ -6,4 +6,10 @@ locale: "en"
 include: ["_pages"]
 title: "Global Grassy Group"
 
-url                      : https://globalgrassygroup.github.io/
+url: https://globalgrassygroup.github.io/
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GlobalGrassyGroup"
