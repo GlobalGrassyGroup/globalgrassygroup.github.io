@@ -2,5 +2,5 @@
 permalink: /protocol/
 layout: splash
 ---
-
-Sampling protocol
+<br>
+#### Sampling protocols
