@@ -3,5 +3,5 @@ permalink: /datasets/
 layout: splash
 ---
 <br>
-#### Resources
+#### Datasets
 Here you can download publicly-accessible parts of our datasets.
