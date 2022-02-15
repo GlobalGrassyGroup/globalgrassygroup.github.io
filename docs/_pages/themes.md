@@ -2,7 +2,7 @@
 permalink: /themes/
 layout: splash
 feature_row:
-  - image_path: /images/theme1.jpg
+  - image_path: /images/theme1.png
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, number and relative abundance"
