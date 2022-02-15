@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "People"
     url: /people/
+  - title: "Research themes"
+    url: /themes/
   - title: "Sampling protocols"
     url: /protocol/
   - title: "Resources"
