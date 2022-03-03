@@ -5,9 +5,7 @@ layout: splash
 <br>
 ## Resources
 <a href="#1" markdown="1"> __1.__ Equipment list</a>
-
 <a href="#2" markdown="1"> __2.__ Field data collection</a>
-
 <a href="#3" markdown="1"> __3.__ Making a specimen</a>
 
 
@@ -43,7 +41,7 @@ layout: splash
 <a name="2"></a>
 ### 2. Field data collection
 
-_YT video made by us_
+_YT video will be added later_
 
 <a name="3"></a>
 ### 3. Making a specimen
