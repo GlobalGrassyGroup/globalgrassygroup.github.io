@@ -13,7 +13,29 @@ layout: splash
 
 <a name="1"></a>
 ### 1. Equipment list
-   #### General
+<head>
+    <style>
+        p {
+            margin-left: 40px;
+        }
+    </style>
+</head>
+  
+<body>
+    <h2>General</h2>
+  
+    <p>
+       - Notebook/datasheets/tablet; pen/pencil
+       - Camera
+       - GPS
+       - Compass
+       - 25 m or 50 m measuring tapes (or 25 m of rope with marks at each 5 m interval)
+       - 1 m diameter circle made of a resilient material – easiest to use flexible pipe or hose
+       - 2 m tall measuring staff (e.g. plumber conduit pipes with electrical tape marking height increments)
+    </p>
+</body>
+
+#### General
    - Notebook/datasheets/tablet; pen/pencil
    - Camera
    - GPS
