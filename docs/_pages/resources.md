@@ -13,7 +13,7 @@ layout: splash
 
 <a name="1"></a>
 ### 1. Equipment list
-#### General
+{margin: 0 -240px 0 0} #### General
 - Notebook/datasheets/tablet; pen/pencil
 - Camera
 - GPS
@@ -55,4 +55,4 @@ _YT video will be added later_
 
 Further information of using silica gel can be found on [Royal Botanic Garden Edinburgh website](https://www.rbge.org.uk/science-and-conservation/herbarium/our-collections/silica-dried-collection/).
 
-{% include video id="5-9GR1smZ34" provider="youtube" width=640 %}
+{% include video id="5-9GR1smZ34" provider="youtube" margin: 0 -240px 0 0 %}
