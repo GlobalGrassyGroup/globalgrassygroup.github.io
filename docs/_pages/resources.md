@@ -4,9 +4,9 @@ layout: splash
 ---
 <br>
 ## Resources
-<a href="#1" markdown="1"> __1.__ Equipment list</a>
-<a href="#2" markdown="1"> __2.__ Field data collection</a>
-<a href="#3" markdown="1"> __3.__ Making a specimen</a>
+<a href="#1" markdown="1"> __1.__ Equipment list</a> <br>
+<a href="#2" markdown="1"> __2.__ Field data collection</a> <br>
+<a href="#3" markdown="1"> __3.__ Making a specimen</a> <br>
 
 
 <a name="1"></a>
