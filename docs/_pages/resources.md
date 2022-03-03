@@ -13,7 +13,7 @@ layout: splash
 
 <a name="1"></a>
 ### 1. Equipment list
-{margin-left: 40px}
+
 #### General
    - Notebook/datasheets/tablet; pen/pencil
    - Camera
