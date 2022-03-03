@@ -7,6 +7,8 @@ layout: splash
 <a href="#1" markdown="1"> __1.__ Equipment list</a> <br>
 <a href="#2" markdown="1"> __2.__ Field data collection</a> <br>
 <a href="#3" markdown="1"> __3.__ Making a specimen</a> <br>
+<a href="#4" markdown="1"> __4.__ Silica gel for DNA preservation</a> <br>
+
 
 
 <a name="1"></a>
@@ -47,3 +49,10 @@ _YT video will be added later_
 ### 3. Making a specimen
 
 {% include video id="2wFN9YmkBOQ" provider="youtube" width=640 %}
+
+<a name="4"></a>
+### 4. Silica gel for DNA preservation
+
+Further information of using silica gel can be found on [Royal Botanic Garden Edinburgh website](https://www.rbge.org.uk/science-and-conservation/herbarium/our-collections/silica-dried-collection/).
+
+{% include video id="5-9GR1smZ34" provider="youtube" width=640 %}
