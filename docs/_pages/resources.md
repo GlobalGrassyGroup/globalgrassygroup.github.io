@@ -3,15 +3,17 @@ permalink: /resources/
 layout: splash
 ---
 <br>
-#### Resources
+## Resources
 <a href="#1" markdown="1"> __1.__ Equipment list</a>
+
 <a href="#2" markdown="1"> __2.__ Field data collection</a>
+
 <a href="#3" markdown="1"> __3.__ Making a specimen</a>
 
 
 <a name="1"></a>
-Equipment list
-##### General
+### 1. Equipment list
+#### General
 - Notebook/datasheets/tablet; pen/pencil
 - Camera
 - GPS
@@ -20,7 +22,7 @@ Equipment list
 - 1 m diameter circle made of a resilient material – easiest to use flexible pipe or hose
 - 2 m tall measuring staff (e.g. plumber conduit pipes with electrical tape marking height increments)
 
-##### Sampling plant specimens for identification and DNA
+#### Sampling plant specimens for identification and DNA
 - Plant press with sufficient paper and cardboard (for drying of specimens)
 - Notebook (for specifically recording plant collection details)
 - Large plastic bags (bin size)
@@ -39,10 +41,11 @@ Equipment list
 - ceptometer
 
 <a name="2"></a>
-Field data collection
+### 2. Field data collection
+
 _YT video made by us_
 
 <a name="3"></a>
-Making a specimen
+### 3. Making a specimen
 
 {% include video id="2wFN9YmkBOQ" provider="youtube" width=640 %}
