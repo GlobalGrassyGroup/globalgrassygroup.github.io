@@ -23,6 +23,7 @@ _University of the Witwatersrand, South Africa_
 
 My research interests lie in understanding how large mammal herbivores shape vegetation communities in African ecosystems - both at very large scales and via interactive effects with fire. I am currently analysing patterns of historical herbivore biomass and fire at the continental scale in Africa. My field research explores grass community responses to frequent grazing.
 
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/caroline-lehmann.jpg" alt="">
 </figure> 
