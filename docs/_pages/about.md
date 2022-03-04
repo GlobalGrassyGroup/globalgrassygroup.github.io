@@ -5,8 +5,8 @@ hidden: true
 header:
   overlay_image: /images/p2.jpg
   caption: "Photo credit: Caroline Lehmann"
-excerpt: >
- Global Grassy Group<br />
+
+{: style="text-align: center;"}
 ---
 <br>
 
