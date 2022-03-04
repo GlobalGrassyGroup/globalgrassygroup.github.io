@@ -22,7 +22,6 @@ I work on understanding the dynamics of savanna ecosystems in the context of glo
 _University of the Witwatersrand, South Africa_
 
 My research interests lie in understanding how large mammal herbivores shape vegetation communities in African ecosystems - both at very large scales and via interactive effects with fire. I am currently analysing patterns of historical herbivore biomass and fire at the continental scale in Africa. My field research explores grass community responses to frequent grazing.
-
 <br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/caroline-lehmann.jpg" alt="">
@@ -36,7 +35,8 @@ I work on improving our understanding of the ecology and evolution of tropical e
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/bat-vorontsova.jpg" alt="">
 </figure> 
-
+<br>
+<br>
 #### Maria Vorontsova
 _Royal Botanic Gardens, Kew, United Kingdom_
 
