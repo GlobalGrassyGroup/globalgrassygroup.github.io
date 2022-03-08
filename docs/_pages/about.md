@@ -17,7 +17,9 @@ Grassy biomes span ~40% of the global land surface. They are critical to livelih
 If you would like to contribute your data to GGG, please read our [participation guide]() and [contact us](/contact/).
 {: style="text-align: center;"}
 
+### Map of GGG field sites
+{: style="text-align: center;"}
 We have so far collected species composition data from ~6000 plots in 300+ sites.
 {: style="text-align: center;"}
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GGG-grassy-biomes" src="//edinuniv.maps.arcgis.com/apps/Embed/index.html?webmap=872b7250e22049a7813de96110faf80f&extent=-60.6107,-51.6461,133.4518,41.9994&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GGG-grassy-biomes" src="https://edinuniv.maps.arcgis.com/home/webmap/viewer.html?webmap=872b7250e22049a7813de96110faf80f"></iframe></div>
