@@ -17,39 +17,6 @@ Grassy biomes span ~40% of the global land surface. They are critical to livelih
 If you would like to contribute your data to GGG, please read our [participation guide]() and [contact us](/contact/).
 {: style="text-align: center;"}
 
+So far, we have collected data for ~6000 plots in 300+ sites.
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-
-
-
-<html>
-<head>
-  <title>A Leaflet map!</title>
-  <link rel="stylesheet" href="./Leaflet-1.7.1/leaflet.css"/>
-  <script src="./Leaflet-1.7.1/leaflet.js"></script>
-  <style>
-    #map{ height: 100% }
-  </style>
-</head>
-<body>
-
-  <div id="map"></div>
-
-  <script>
-
-  // initialize the map
-  var map = L.map('map').setView([42.35, -71.08], 13);
-
-  // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-    {
-      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
-      maxZoom: 17,
-      minZoom: 9
-    }).addTo(map);
-
-  </script>
-</body>
-</html>
-	
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GGG-grassy-biomes" src="//edinuniv.maps.arcgis.com/apps/Embed/index.html?webmap=872b7250e22049a7813de96110faf80f&extent=-60.6107,-51.6461,133.4518,41.9994&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
