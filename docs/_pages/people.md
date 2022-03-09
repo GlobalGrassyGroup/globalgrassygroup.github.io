@@ -39,7 +39,7 @@ I work on improving our understanding of the ecology and evolution of tropical e
   <img src="{{ site.url }}{{ site.baseurl }}/images/bat-vorontsova.jpg" alt="">
 </figure> 
 
-#### Maria Vorontsova
+#### Bat Vorontsova
 _Royal Botanic Gardens, Kew, United Kingdom_
 
 I study grasses and everything about them, with a particular focus on tropical African diversity and poorly known lineages, their evolutionary history, and the history of tropical grasslands and savannas. I use herbarium based alpha taxonomy to enrich our understanding of ecosystems and their function. My main research direction is a full taxonomic treatment of Poaceae for the Flora of Madagascar, a long term project incorporating a range of ecological, phylogenetic, ethnobotanical, and horticultural work.
