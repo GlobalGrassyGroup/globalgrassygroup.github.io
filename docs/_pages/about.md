@@ -19,7 +19,7 @@ If you would like to contribute your data to GGG, please read our [participation
 
 ### Map of GGG field sites
 {: style="text-align: center;"}
-We have so far collected species composition data from ~6000 plots in 300+ sites.
+We have so far collected species composition data in 6000+ plots across 300+ sites.
 {: style="text-align: center;"}
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GGG-grassy-biomes" src="//edinuniv.maps.arcgis.com/apps/Embed/index.html?webmap=872b7250e22049a7813de96110faf80f&extent=-75.893,-54.2517,118.1695,38.7036&zoom=true&previewImage=false&scale=true&disable_scroll=true&legend=true&theme=light"></iframe></div>
