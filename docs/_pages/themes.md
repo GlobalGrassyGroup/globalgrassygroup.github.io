@@ -26,3 +26,6 @@ feature_row:
 ---
 <br>
 {% include feature_row %}
+
+_to be added soon_
+
