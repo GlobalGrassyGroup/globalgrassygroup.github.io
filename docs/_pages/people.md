@@ -58,4 +58,4 @@ I am a database and website manager for GGG. I am interested in the intersection
 <br>
 
 ## Data contributors
-_list will be added soon_
+_to be added soon_
