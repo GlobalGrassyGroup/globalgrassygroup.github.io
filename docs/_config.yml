@@ -13,7 +13,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GlobalGrassyGroup"
-  image: "/images/main1.jpg"
 
 atom_feed:
   hide: true
