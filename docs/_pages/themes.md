@@ -6,7 +6,7 @@ feature_row:
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, number and relative abundance"
-    url: "/themes"
+    url: "/themes/#community-composition"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme2.jpg
@@ -26,7 +26,6 @@ feature_row:
 ---
 <br>
 {% include feature_row %}
-
 <br>
 <br>
 ## Community composition
