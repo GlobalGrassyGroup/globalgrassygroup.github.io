@@ -2,6 +2,7 @@
 permalink: /about/
 layout: splash
 hidden: true
+title: "Global Grassy Group"
 header:
   overlay_image: /images/p2.jpg
   caption: "Photo credit: Caroline Lehmann"
