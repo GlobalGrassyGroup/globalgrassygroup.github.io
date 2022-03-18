@@ -4,6 +4,7 @@ plugins:
 
 locale: "en"
 include: ["_pages"]
+title: ""
 logo: "/images/GGG-logo.png"
 
 url: https://globalgrassygroup.github.io/
