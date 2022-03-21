@@ -26,7 +26,7 @@ I work on understanding the dynamics of savanna ecosystems in the context of glo
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bat-vorontsova.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bat_vorontsova.jpg" alt="">
 </figure> 
 
 #### Bat Vorontsova
