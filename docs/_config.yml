@@ -10,7 +10,6 @@ logo: "/images/GGG-logo.png"
 url: https://globalgrassygroup.github.io/
 
 footer:
-  title: "Global Grassy Group"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
