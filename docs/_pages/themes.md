@@ -20,7 +20,7 @@ feature_row:
     alt: "grassy 3"
     title: "Phylogeny and taxonomy"
     excerpt: "Studying species classification and the history of species evolution"
-    url: "/themes"
+    url: "/themes/#phylogeny-and-taxonomy"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
