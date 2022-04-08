@@ -3,11 +3,7 @@ permalink: /publications/
 layout: splash
 ---
 <br>
-#### List of publications which used GGG data
-
-_to be added soon_
-
-#### List of publications which used GGG protocol
+#### List of publications which used GGG protocol or data
 
 3. [Solofondranohatra, C.L., Vorontsova, M.S., Hempson, G.P., Hackel, J., Cable, S., Vololoniaina, J. and Lehmann, C.E.R. (2020) ‘Fire and grazing determined grasslands of central Madagascar represent ancient assemblages’, _Proceedings of the Royal Society B: Biological Sciences_, 287(1927), 20200598.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0598)
 
