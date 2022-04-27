@@ -6,6 +6,8 @@ main:
     url: /people/
   - title: "Research themes"
     url: /themes/
+  - title: "News"
+    url: /news/
   - title: "Sampling protocols"
     url: /protocol/
   - title: "Resources"
