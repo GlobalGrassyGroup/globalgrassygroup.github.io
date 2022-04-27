@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-layout: posts
+layout: splash
 ---
 <br>
 #### Latest from Global Grassy Group
