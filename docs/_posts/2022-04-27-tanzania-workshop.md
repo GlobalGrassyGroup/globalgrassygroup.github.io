@@ -1,10 +1,9 @@
 ---
 title: "Training in herbaceous sampling in Tanzania"
 layout: splash
+header:
+  overlay_image: /images/tz-workshop/tz1.png
 ---
-<figure style="width: 800px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz1.png" alt="">
-</figure> 
 
 From 16th – 25th March 2022, [SEOSAW](https://seosaw.github.io/) in collaboration with Global Grassy Group and [Miombo Network](http://miombonetwork.org/) organized a training workshop on herbaceous data collection protocol at Kitulangalo forest reserve in Morogoro, Tanzania.
 
