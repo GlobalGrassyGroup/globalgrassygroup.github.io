@@ -18,7 +18,7 @@ The activities consisted of herbaceous composition, shrubs and tree sampling. Ad
 </figure>
 {: style="text-align: center;"}
 
-The SEOSAW team also held a meeting with the Tanzania Forestry Research Institute (TAFORI) to discuss the incorporation of the SEOSAW sampling protocol.
+The SEOSAW team also held a meeting with the Tanzania Forestry Research Institute ([TAFORI](https://tafori.or.tz/)) to discuss the incorporation of the SEOSAW sampling protocol.
 
 <figure style="width: 800px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz3.jpg" alt="">
