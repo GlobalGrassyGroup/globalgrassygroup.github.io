@@ -14,6 +14,6 @@ From 16th – 25th March 2022, [SEOSAW](https://seosaw.github.io/) in collaborat
 The activities consisted of herbaceous composition, shrubs and tree sampling. Additionally, vouchering and plant pressing was also included in the training.
 
 <figure style="width: 400px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz234.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
