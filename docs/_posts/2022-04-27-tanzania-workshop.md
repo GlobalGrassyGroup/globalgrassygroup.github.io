@@ -15,6 +15,5 @@ The activities consisted of herbaceous composition, shrubs and tree sampling. Ad
 
 <figure style="width: 400px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz2.png" alt="">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz3.png" alt="">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz4.png" alt="">
-</figure> 
+</figure>
+{: style="text-align: center;"}
