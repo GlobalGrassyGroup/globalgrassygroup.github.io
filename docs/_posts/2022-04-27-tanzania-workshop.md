@@ -13,7 +13,14 @@ From 16th – 25th March 2022, [SEOSAW](https://seosaw.github.io/) in collaborat
 
 The activities consisted of herbaceous composition, shrubs and tree sampling. Additionally, vouchering and plant pressing was also included in the training.
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 800px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz2.jpg" alt="">
+</figure>
+{: style="text-align: center;"}
+
+The SEOSAW team also held a meeting with the Tanzania Forestry Research Institute (TAFORI) to discuss the incorporation of the SEOSAW sampling protocol.
+
+<figure style="width: 800px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz3.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
