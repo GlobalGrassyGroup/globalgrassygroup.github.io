@@ -3,6 +3,11 @@ permalink: /publications/
 layout: splash
 ---
 <br>
+
+#### GGG protocol
+
+[Lehmann, C.E.R., Archibald, S., Vorontsova, M.S., Hempson, G.P. and Wieczorkowski, J.D. (2022) “Manisa bozaka” or “Counting grass”: Global Grassy Group guide to understanding and measuring the functional and taxonomic composition of ground layer plants. _Protocol Exchange_.](https://doi.org/10.21203/rs.3.pex-1905/v1)
+
 #### List of publications which used GGG protocol or data
 
 3. [Solofondranohatra, C.L., Vorontsova, M.S., Hempson, G.P., Hackel, J., Cable, S., Vololoniaina, J. and Lehmann, C.E.R. (2020) ‘Fire and grazing determined grasslands of central Madagascar represent ancient assemblages’, _Proceedings of the Royal Society B: Biological Sciences_, 287(1927), 20200598.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0598)
