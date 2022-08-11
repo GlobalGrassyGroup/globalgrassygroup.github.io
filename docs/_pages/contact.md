@@ -4,4 +4,4 @@ layout: splash
 ---
 <br>
 #### Website and Database Manager - Jakub Wieczorkowski
-_email:_ <a href="mailto:jakub.wieczorkowski@ed.ac.uk">Jakub.Wieczorkowski@ed.ac.uk</a>
+_email:_ <a href="mailto:globalgrassygroup@gmail.com">globalgrassygroup@gmail.com</a>
