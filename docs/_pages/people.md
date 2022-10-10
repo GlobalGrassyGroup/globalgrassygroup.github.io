@@ -46,7 +46,7 @@ My research interests lie in understanding how large mammal herbivores shape veg
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/anya-courtenay.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/anya-courtenay.JPG" alt="">
 </figure> 
 
 #### Anya Courtenay
