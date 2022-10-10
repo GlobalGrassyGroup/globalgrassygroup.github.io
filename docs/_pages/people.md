@@ -52,7 +52,7 @@ My research interests lie in understanding how large mammal herbivores shape veg
 #### Anya Courtenay
 _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 
-I am a database and website manager for GGG. I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. 
+I manage the GGG database. My research focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by resilient plant biodiversity, such as underground trees. 
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
