@@ -13,7 +13,7 @@ feature_row:
     alt: "grassy 2"
     title: "Functional traits"
     excerpt: "Measuring plant characteristics which affect their performance"
-    url: "/themes"
+    url: "/themes/#functional-traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme3.jpg
