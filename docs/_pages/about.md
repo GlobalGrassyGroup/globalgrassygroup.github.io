@@ -18,6 +18,7 @@ If you would like to contribute your data to GGG, please read our [participation
 {: style="text-align: center;"}
 
 To find out more about savannas and grasslands, visit the [Open Ecosystem Network](https://openeconet.org/).
+{: style="text-align: center;"}
 
 ### Map of GGG field sites
 {: style="text-align: center;"}
