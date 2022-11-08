@@ -52,7 +52,7 @@ My research interests lie in understanding how large mammal herbivores shape veg
 #### Anya Courtenay
 _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 
-I manage the GGG database. My research focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by plant biodiversity, especially underground trees. 
+I am a research assistant and manage the GGG database. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by plant biodiversity, especially underground trees. 
 <br>
 <br>
 <br>
@@ -63,7 +63,7 @@ I manage the GGG database. My research focuses on the functional biogeography of
 #### Jakub Wieczorkowski
 _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 
-I am a database and website manager for GGG. I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. 
+I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. 
 <br>
 <br>
 <br>
