@@ -2,7 +2,7 @@
 title: "Workshop and herbaceous sampling in South Africa - December 2022"
 layout: splash
 ---
-## Workshop and herbaceous sampling in Mpumalanga - December 2022
+## Workshop and herbaceous sampling in South Africa - December 2022
 
 As the herbaceous layer came into flower, we held a GGG workshop to brainstorm our future research and sample species composition at the Telperion Nature Reserve in Mpumalanga, South Africa. 
 
