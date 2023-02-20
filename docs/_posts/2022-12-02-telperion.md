@@ -5,14 +5,14 @@ layout: splash
 ## South Africa - December 2022
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-4.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
 
 The Global Grassy Group (GGG) gathers ecologists and biologists working to collect standardised data on plant community composition in savannas and grasslands. As the herbaceous ground layer came into flower, we held a GGG workshop to brainstorm our future research and sample plant community composition at the Telperion Nature Reserve in Mpumalanga, South Africa.  
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-4.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
 
