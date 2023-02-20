@@ -1,8 +1,9 @@
 ---
-title: "Workshop and herbaceous sampling"
+title: "South Africa - December 2022"
 layout: splash
 ---
-## South Africa - December 2022
+## Workshop and herbaceous sampling
+December 2022
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/t-4.jpg" alt="">
