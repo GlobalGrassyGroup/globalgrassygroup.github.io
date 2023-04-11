@@ -19,7 +19,7 @@ The GGG team, colleagues and students undertook fieldwork using the [GGG samplin
 
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-3.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-5.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
 
