@@ -3,8 +3,9 @@ title: "Workshop in South Africa"
 layout: splash
 ---
 ## Workshop in South Africa
-###### *December 2022
-By Anya Courtenay*
+###### *December 2022*
+*By Anya Courtenay*
+
 
 The Global Grassy Group (GGG) gathers ecologists and biologists working to collect standardised data on plant community composition in savannas and grasslands. As the herbaceous ground layer came into flower, we held a GGG workshop to brainstorm our future research and sample plant community composition at the Telperion Nature Reserve in Mpumalanga, South Africa.  
 
