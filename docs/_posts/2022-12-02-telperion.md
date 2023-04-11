@@ -1,5 +1,5 @@
 ---
-title: "Workshop in South Africa - December 2022"
+title: "Workshop in South Africa"
 layout: splash
 ---
 ## Workshop in South Africa
