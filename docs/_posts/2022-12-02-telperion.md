@@ -2,7 +2,7 @@
 title: "GGG workshop and fieldwork in South Africa"
 layout: splash
 ---
-## GGG Workshop and fieldwork in South Africa
+## GGG workshop and fieldwork in South Africa
 ###### *December 2022*
 
 
