@@ -1,8 +1,8 @@
 ---
-title: "GGG Workshop in South Africa"
+title: "GGG Workshop and fieldwork in South Africa"
 layout: splash
 ---
-## GGG Workshop in South Africa
+## GGG Workshop and fieldwork in South Africa
 ###### *December 2022*
 
 
