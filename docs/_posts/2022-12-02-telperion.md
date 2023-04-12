@@ -18,7 +18,7 @@ Telperion’s land-use history has included a period of cultivation. Previous la
 The GGG team, colleagues and students undertook fieldwork using the [GGG sampling protocol](https://protocolexchange.researchsquare.com/article/pex-1905/v1) to compare species composition at two sites at Telperion. The first was a never-ploughed site and the second was a previously-ploughed site where vegetation has reassembled over the last 50 years. We asked, ‘how has land-use impacted the species richness and composition of grasses and herbaceous plants’?
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-6.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-6.jpg.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
