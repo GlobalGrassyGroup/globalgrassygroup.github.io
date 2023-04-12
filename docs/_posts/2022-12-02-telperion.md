@@ -20,7 +20,7 @@ The GGG team, colleagues and students undertook fieldwork using the [GGG samplin
 While we found 56 different species across our plots at the never-ploughed site, just 27 were recorded at the previously-ploughed site. There were also obvious differences in the composition and functional groups present at each site. A good example is the indigenous dwarf shrub *Seriphium plumosum* (‘[bankrupt bush](https://www.sanbi.org/news/bankrupt-bush-to-be-listed-indicator-of-bush-encroachment/)‘) that encroaches and displaces grasses following cultivation, thereby reducing grazing capacity and decreasing biodiversity ([Brown *et al*., 2022](https://vcs.pensoft.net/article/85209/download/pdf/)). *Seriphium plumosum* was absent at the never-ploughed site but covered large areas in the previously-ploughed site. The impact of ploughing has therefore halved the diversity and meant that vegetation has not yet reassembled to the expected composition in that area. 
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-5.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-6.jpg.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
@@ -29,7 +29,7 @@ Comparisons between land-use or along environmental gradients (including climate
 During our workshop discussions, we identified some priorities for future research and collaborative activity. Broadly, these include management and implementation of the plot network, improving scientific understanding of herbaceous community shifts, and engagement with policy, management and advocacy.
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/t-6.jpg.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/t-5.jpg" alt="">
 </figure>
 {: style="text-align: center;"}
 
