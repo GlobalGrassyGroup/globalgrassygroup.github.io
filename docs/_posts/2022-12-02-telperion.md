@@ -1,8 +1,8 @@
 ---
-title: "Workshop in South Africa"
+title: "GGG Workshop in South Africa"
 layout: splash
 ---
-## Workshop in South Africa
+## GGG Workshop in South Africa
 ###### *December 2022*
 
 
