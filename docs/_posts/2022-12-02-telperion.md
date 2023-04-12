@@ -1,5 +1,5 @@
 ---
-title: "GGG Workshop and fieldwork in South Africa"
+title: "GGG workshop and fieldwork in South Africa"
 layout: splash
 ---
 ## GGG Workshop and fieldwork in South Africa
