@@ -33,4 +33,4 @@ During our workshop discussions, we identified some priorities for future resear
 </figure>
 {: style="text-align: center;"}
 
-Thanks to the [Furutre Ecosystems for Africa](https://futureecosystemsafrica.org/recent-work/) team and our colleagues who attended the workshop from the following institutions: University of the Witwatersrand, North-West University, South African Biodiversity Institute, South African Environmental Observation Network, University of Edinburgh and Royal Botanic Garden Edinburgh.
+Thanks to the [Future Ecosystems for Africa](https://futureecosystemsafrica.org/recent-work/) team and our colleagues who attended the workshop from the following institutions: University of the Witwatersrand, North-West University, South African Biodiversity Institute, South African Environmental Observation Network, University of Edinburgh and Royal Botanic Garden Edinburgh.
