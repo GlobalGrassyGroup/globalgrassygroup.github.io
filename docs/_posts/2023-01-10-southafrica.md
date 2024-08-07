@@ -35,13 +35,14 @@ Below is a schematic illustrating the specific sampling protocol we used (Figure
 
 *Figure 1: A very basic schematic that Elaine and Eulalia used for their fieldwork. The big 50m x 50m is the size of each plot as laid out in the GGG protocol. The cubes represent 0.5m x 0.5m where aboveground biomass, litter, belowground coarse roots, and belowground fine roots were samples. The x’d circles represent the soil samples that were taken and the black centre circle represents where the bulk density was collected.
 The 21 unfilled circles represent the 1m2 circular plots that were used for floristic sampling.*
+{: style="text-align: center;"}
 <br>
 
 Through the use of this protocol we aimed to quantify the loss of floristic and functional diversity between the previously ploughed lands and the old-growth grasslands. It is quite obvious that if you plough land, diversity will be lost – our job was to do what all eager scientists aim to do, prove it. 
 
 Each day, we set out in our trusty steed Mole to one of our paired sites for a full day of digging in the dirt and paging through field guides to identify the myriad of plants in the field. Our field observations revealed a disparity in species richness between previously ploughed and unploughed ‘old-growth grasslands’. We noted that management styles influence this disparity. Additionally, the type of surrounding grassland affects species richness recovery; natural reintroduction is higher near old-growth grasslands compared to sites surrounded by farms. This is confirmed by the return of geophytes such as *Gladiolus spp.*, *Watsonia spp.*, and even a few orchid species. While the return of these species is not impossible, it is less likely without external intervention or a natural source area.
 
-<figure style="width: 1000px" class="align-centre">
+<figure style="width: 500px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/4.png" alt="">
 </figure>
 {: style="text-align: center;"}
