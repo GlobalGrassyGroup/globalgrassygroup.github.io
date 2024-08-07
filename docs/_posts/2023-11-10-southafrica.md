@@ -6,7 +6,7 @@ layout: splash
 ###### *November 2023*
 ###### *By Eulalia Jordaan and Elaine Slooten*
 
-<brk> 
+<br> 
   
 In January 2023 two budding researchers Elaine Slooten and Eulalia Jordaan, from the North West University (NWU) in South Africa embarked on a two-month sampling journey to gather soil and floristic data. This expedition was part of the Future Ecosystems for Africa (FEFA) program for their MSc’s, supported by Oppenheimer Generations Research and Conservation, Frances Siebert (NWU), and Sally Archibald (University of Witwatersrand).
 
