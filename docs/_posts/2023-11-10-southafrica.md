@@ -12,6 +12,16 @@ In January 2023 two budding researchers Elaine Slooten and Eulalia Jordaan, from
 The aim of this research is to determine to which degree the floristic and functional diversity, as well as the carbon stocks (including soil – and plant organic carbon), of Highveld grasslands in South Africa can recover after being ploughed. It highlights the risks of ploughing South Africa’s grassland ecosystems and informs landowners and land-use planners about these risks. Our published [paper](https://sajs.co.za/article/view/15540) in the [South African Journal of Science](https://sajs.co.za/index) summarises international studies, illustrating that biodiverse ‘old-growth grasslands’ can lose up to 50% of their soil carbon during ploughing.
 {: style="text-align: center;"}
 
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa1.jpg" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa2.jpg" alt="">
+</figure>
+{: style="text-align: center;"}
+
 We started our fieldwork in Potchefstroom, enduring the scorching 38°C sun, wasp attacks, and the silent assault of pepper ticks! After a month of intense soil and floristic sampling across 20 plots of 50m x 50m, we packed up and moved North East to Mpumalanga to sample the wetter side of the Highveld Grasslands. Our struggles continued as we faced relentless rain and floods, which saturated the dirt roads we had to take to get to our sites. After getting our bakkie (affectionately named Mole) stuck, for the fifth time we might add, we left it behind and wandered in the dark nature reserves looking for cell service to call for assistance, worrying that we would have to walk all the way back to our accommodation.
 {: style="text-align: center;"}
 
