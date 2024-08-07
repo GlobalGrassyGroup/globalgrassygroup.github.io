@@ -28,14 +28,13 @@ Our fieldwork challenges didn’t stop there. We also encountered massive thunde
 
 Below is a schematic illustrating the specific sampling protocol we used (Figure 1), which combines the Global Grassy Group [‘Manisa bozaka’ protocol](https://protocolexchange.researchsquare.com/article/pex-1905/v1), adapted to include soil studies and biomass measurements for calculating organic carbon stock from both soil and biomass in the plots.
 
-<figure style="width: 1000px" class="align-centre">
+<figure style="width: 500px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa8.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
 *Figure 1: A very basic schematic that Elaine and Eulalia used for their fieldwork. The big 50m x 50m is the size of each plot as laid out in the GGG protocol. The cubes represent 0.5m x 0.5m where aboveground biomass, litter, belowground coarse roots, and belowground fine roots were samples. The x’d circles represent the soil samples that were taken and the black centre circle represents where the bulk density was collected.
 The 21 unfilled circles represent the 1m2 circular plots that were used for floristic sampling.*
-{: style="text-align: center;"}
 <br>
 
 Through the use of this protocol we aimed to quantify the loss of floristic and functional diversity between the previously ploughed lands and the old-growth grasslands. It is quite obvious that if you plough land, diversity will be lost – our job was to do what all eager scientists aim to do, prove it. 
