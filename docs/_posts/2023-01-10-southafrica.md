@@ -29,7 +29,7 @@ Our fieldwork challenges didn’t stop there. We also encountered massive thunde
 Below is a schematic illustrating the specific sampling protocol we used (Figure 1), which combines the Global Grassy Group [‘Manisa bozaka’ protocol](https://protocolexchange.researchsquare.com/article/pex-1905/v1), adapted to include soil studies and biomass measurements for calculating organic carbon stock from both soil and biomass in the plots.
 
 <figure style="width: 500px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa9.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa9.png" alt=""> 
 </figure>
 {: style="text-align: center;"}
 
