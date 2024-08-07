@@ -41,7 +41,7 @@ Through the use of this protocol we aimed to quantify the loss of floristic and 
 
 Each day, we set out in our trusty steed Mole to one of our paired sites for a full day of digging in the dirt and paging through field guides to identify the myriad of plants in the field. Our field observations revealed a disparity in species richness between previously ploughed and unploughed ‘old-growth grasslands’. We noted that management styles influence this disparity. Additionally, the type of surrounding grassland affects species richness recovery; natural reintroduction is higher near old-growth grasslands compared to sites surrounded by farms. This is confirmed by the return of geophytes such as *Gladiolus spp.*, *Watsonia spp.*, and even a few orchid species. While the return of these species is not impossible, it is less likely without external intervention or a natural source area.
 
-<figure style="width: 500px" class="align-centre">
+<figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/4.png" alt="">
 </figure>
 {: style="text-align: center;"}
