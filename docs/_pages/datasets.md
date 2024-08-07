@@ -6,4 +6,4 @@ layout: splash
 #### Datasets
 Here you can download publicly-accessible parts of our datasets.
 
-_to be added soon_
+_To be added soon_
