@@ -9,15 +9,22 @@ feature_row:
     url: "/themes/#community-composition"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/theme2.jpg
+- image_path: /images/theme1.png
     alt: "grassy 2"
+    title: "Biogeography"
+    excerpt: "Understanding plant distributions and their drivers"
+    url: "/themes/#biogeography"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"   
+  - image_path: /images/theme2.jpg
+    alt: "grassy 3"
     title: "Functional traits"
     excerpt: "Measuring plant characteristics which affect their performance"
     url: "/themes/#functional-traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme3.jpg
-    alt: "grassy 3"
+    alt: "grassy 4"
     title: "Phylogeny and taxonomy"
     excerpt: "Studying species classification and the history of species evolution"
     url: "/themes/#phylogeny-and-taxonomy"
