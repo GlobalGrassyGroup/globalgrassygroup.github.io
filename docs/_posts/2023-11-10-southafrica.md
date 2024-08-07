@@ -12,12 +12,8 @@ In January 2023 two budding researchers Elaine Slooten and Eulalia Jordaan, from
 
 The aim of this research is to determine to which degree the floristic and functional diversity, as well as the carbon stocks (including soil – and plant organic carbon), of Highveld grasslands in South Africa can recover after being ploughed. It highlights the risks of ploughing South Africa’s grassland ecosystems and informs landowners and land-use planners about these risks. Our published [paper](https://sajs.co.za/article/view/15540) in the [South African Journal of Science](https://sajs.co.za/index) summarises international studies, illustrating that biodiverse ‘old-growth grasslands’ can lose up to 50% of their soil carbon during ploughing.
 
-<figure style="width: 100px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa1.jpg" alt="">
-</figure>
-
-<figure style="width: 100px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa2.jpg" alt="">
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/2.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
@@ -25,11 +21,31 @@ We started our fieldwork in Potchefstroom, enduring the scorching 38°C sun, was
 
 Our fieldwork challenges didn’t stop there. We also encountered massive thunderstorms, buffalo circling our plots, hungry cows mistaking us for food bearers, and ostriches guarding their eggs. Despite these hurdles, after two months, we collected comprehensive data: 240 soil samples, 800 biomass samples, and thorough floristic data for 1000 1m² plots, documenting around 500 different species. The lab work and data processing took several months, but we aimed to verify any trends and significance.
 
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/3.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
 Below is a schematic illustrating the specific sampling protocol we used, which combines the Global Grassy Group [‘Manisa bozaka’ protocol](https://protocolexchange.researchsquare.com/article/pex-1905/v1), adapted to include soil studies and biomass measurements for calculating organic carbon stock from both soil and biomass in the plots.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/sa8.png" alt="">
+</figure>
+{: style="text-align: center;"}
 
 Through the use of this protocol we aimed to quantify the loss of floristic and functional diversity between the previously ploughed lands and the old-growth grasslands. It is quite obvious that if you plough land, diversity will be lost – our job was to do what all eager scientists aim to do, prove it. 
 
 Each day, we set out in our trusty steed Mole to one of our paired sites for a full day of digging in the dirt and paging through field guides to identify the myriad of plants in the field. Our field observations revealed a disparity in species richness between previously ploughed and unploughed ‘old-growth grasslands’. We noted that management styles influence this disparity. Additionally, the type of surrounding grassland affects species richness recovery; natural reintroduction is higher near old-growth grasslands compared to sites surrounded by farms. This is confirmed by the return of geophytes such as *Gladiolus spp.*, *Watsonia spp.*, and even a few orchid species. While the return of these species is not impossible, it is less likely without external intervention or a natural source area.
 
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/4.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
 We also observed differences in root density based on management styles. Sites grazed almost daily had sparse, thick roots, whereas old-growth grasslands had a dense carpet of fine roots in the top 10 cm and thicker roots extending deeper. These are just some of the observations we made using the ‘Manisa bozaka’ protocol. Despite the labor-intensive field and lab work, our results look promising. We hope our findings will demonstrate the impact of ploughing on grasslands and inspire further studies on other ecosystem factors, such as insect diversity, bird diversity, microbial differences in the soil, and other exciting aspects of grassland ecology.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sa-blog/5.png" alt="">
+</figure>
+{: style="text-align: center;"}
 
