@@ -9,7 +9,7 @@ feature_row:
     url: "/themes/#community-composition"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/theme4.png
+  - image_path: /images/theme4.jpg
     alt: "grassy 2"
     title: "Biogeography"
     excerpt: "Understanding plant distributions and their drivers"
