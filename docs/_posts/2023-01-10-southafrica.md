@@ -3,7 +3,7 @@ title: "Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of S
 layout: splash
 header:
   overlay_image: /images/sa-blog/2.png
-  excerpt: "***January 2023 By Eulalia Jordaan and Elaine Slooten, January 2023***"
+excerpt: "***January 2023 By Eulalia Jordaan and Elaine Slooten, January 2023***"
 ---
 
 Two budding researchers Elaine Slooten and Eulalia Jordaan, from the North West University (NWU) in South Africa embarked on a two-month sampling journey to gather soil and floristic data. This expedition was part of the Future Ecosystems for Africa [(FEFA)](https://futureecosystemsafrica.org) program for their MSc’s, supported by Oppenheimer Generations Research and Conservation, Frances Siebert (NWU), and Sally Archibald (University of Witwatersrand).
