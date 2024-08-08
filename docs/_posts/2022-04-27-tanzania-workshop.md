@@ -1,9 +1,10 @@
 ---
-title: "Training in herbaceous sampling in Tanzania - March 2022"
+title: "Training in herbaceous sampling in Tanzania"
 layout: splash
+header:
+  overlay_image: /images/sa-blog/2.png
+excerpt: "***March 2022***"
 ---
-## Training in herbaceous sampling in Tanzania - March 2022
-
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tz-workshop/tz1.png" alt="">
 </figure>
