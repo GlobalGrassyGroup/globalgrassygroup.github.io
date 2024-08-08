@@ -1,6 +1,8 @@
 ---
 title: "Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of South Africa"
 layout: splash
+date:   2023-01-15 16:40:16
+img: docs/images/sa-blog/2.png
 ---
 ## Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of South Africa
 ###### *January 2023*
