@@ -1,5 +1,5 @@
 ---
-title: "Training in herbaceous sampling in Tanzania"
+title: "Herbaceous sampling training in Tanzania"
 layout: splash
 header:
   overlay_image: /images/tz-workshop/tz.jpg
