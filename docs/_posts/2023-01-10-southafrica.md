@@ -5,7 +5,7 @@ header:
   overlay_image: /images/sa-blog/2.png
 ---
 
-*January 2023, By Eulalia Jordaan and Elaine Slooten*
+***January 2023, By Eulalia Jordaan and Elaine Slooten***
 
 <br> 
   
