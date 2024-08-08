@@ -3,7 +3,6 @@ title: "Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of S
 layout: splash
 img: docs/images/sa-blog/2.png
 ---
-## Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of South Africa
 ###### *January 2023*
 ###### *By Eulalia Jordaan and Elaine Slooten*
 
