@@ -2,7 +2,7 @@
 title: "Training in herbaceous sampling in Tanzania"
 layout: splash
 header:
-  overlay_image: /images/sa-blog/2.png
+  overlay_image: /images/tz-workshop/tz.jpg
 excerpt: "***March 2022***"
 ---
 <figure style="width: 1000px" class="align-centre">
