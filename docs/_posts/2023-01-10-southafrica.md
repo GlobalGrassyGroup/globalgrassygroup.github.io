@@ -3,8 +3,7 @@ title: "Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of S
 layout: splash
 header:
   overlay_image: /images/sa-blog/2.png
-  caption: *January 2023*
-  caption: *By Eulalia Jordaan and Elaine Slooten*
+  caption: *January 2023, By Eulalia Jordaan and Elaine Slooten*
 ---
 <br> 
   
