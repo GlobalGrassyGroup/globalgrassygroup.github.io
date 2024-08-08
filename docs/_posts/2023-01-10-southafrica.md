@@ -2,9 +2,7 @@
 title: "Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of South Africa"
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: docs/images/sa-blog/2.png
+  overlay_image: /images/sa-blog/2.png
 ---
 ## Roots, Rain, and Resilience: Sampling shenanigans in the grasslands of South Africa
 ###### *January 2023*
