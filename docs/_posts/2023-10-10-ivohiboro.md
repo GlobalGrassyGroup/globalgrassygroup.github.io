@@ -45,5 +45,5 @@ These results are just the beginning. It is important to note that our work to d
 
 **Acknowledgments** 
 
-Thanks to funding from GCRF Royal Society International Collaboration Award 2020 and Centre ValBio for inviting the team.
+Thanks to GCRF Royal Society International Collaboration Award 2020 for funding this work and Centre ValBio for inviting the team.
 With thanks to Nahita Nala (local guide of Ivohiboro Protected Area) and Jacqueline Razanatsoa (PBZT national herbarium) for their assistance.
