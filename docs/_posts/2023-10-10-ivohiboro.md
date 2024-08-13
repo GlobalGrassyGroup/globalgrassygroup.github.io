@@ -27,7 +27,7 @@ We did a standardised inventory using the [Global Grassy Group (GGG) plot method
 </figure>
 {: style="text-align: center;"}
 
-*Figure 2: Plot session in the savanna with Jacqueline, Nala and Fenitra looking at specimens (left) and seeking shade  (right).*
+*Figure 2: Sampling session in the savanna with Jacqueline, Nala and Fenitra looking at specimens (left) and seeking shade  (right).*
 {: style="text-align: center;"}
 <br>
 
