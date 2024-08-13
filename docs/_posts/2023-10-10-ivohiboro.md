@@ -29,18 +29,18 @@ We surveyed grassland and forest areas in Analabe, the north part of the NPA, to
 </figure>
 {: style="text-align: center;"}
 
-We did a standardised inventory using the Global Grassy Group plot method and mapping to quantify species richness and composition of herbaceous plants in grassy biomes.
+We did a standardised inventory using the [Global Grassy Group plot method](https://protocolexchange.researchsquare.com/article/pex-1905/v1) and mapping to quantify species richness and composition of herbaceous plants in grassy biomes.
 
-Among the grass formations where we sampled, there is a mix of savanna compositions in the north part: including Loudetia simplex, Andropogon spp., Hyparrhenia spp., and Heteropogon contortus savannas. We have also done some plots in the savannas near the Phoenix Conservation experimental reforestation.
+Among the grass formations where we sampled, there is a mix of savanna compositions in the north part: including *Loudetia simplex*, *Andropogon* spp., *Hyparrhenia* spp., and *Heteropogon contortus* savannas. We have also done some plots in the savannas near the Phoenix Conservation experimental reforestation.
 
-The main dominant Poaceae is Loudetia simplex, known locally as "Horo", which according to local people is the basis of the region's name "Ihorombe".
+The main dominant Poaceae is *Loudetia simplex*, known locally as "Horo", which according to local people is the basis of the region's name "Ihorombe".
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/iv-blog/4.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
-These plant inventories should help to identify the savanna's value for their biodiversity and environmental potential, including selecting good grazing areas for the people surrounding the NPA and identifying appropriate areas for tree planting. This area is now a part of the study site of the TANETI project, funded by GCBC to optimize spatial resource management of Madagascar's open grassy ecosystems supporting livelihoods, climate, and biodiversity in a global biodiversity hotspot. Although Ivohiboro NPA is among the red areas of the Ihorombe region for insecurity, we find that it is a potential site for grass collection both in the savannas and inside the forest.
+Our plant inventories should help to identify the savanna's value for their biodiversity and environmental potential, including selecting good grazing areas for the people surrounding the NPA and identifying appropriate areas for tree planting. This area is now a part of the study site of the TANETI project, funded by GCBC to optimize spatial resource management of Madagascar's open grassy ecosystems supporting livelihoods, climate, and biodiversity in a global biodiversity hotspot. Although Ivohiboro NPA is among the red areas of the Ihorombe region for insecurity, we find that it is a potential site for grass collection both in the savannas and inside the forest.
 
 These results are just the beginning. It is important to note that our work to date represents a partial inventory only and further visits to the site for botanical surveying during different seasons would be required to provide a more complete plant list for the site.
 
