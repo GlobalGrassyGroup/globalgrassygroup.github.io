@@ -14,6 +14,10 @@ In May 2016, a team of biologists from the [ValBio Centre](https://www.stonybroo
 </figure>
 {: style="text-align: center;"}
 
+*Figure 1: View of the Analabe Forest from the west (left) and east (right).*
+{: style="text-align: center;"}
+<br>
+
 In October 2023, ValBio invited botanists from Kew, MBG and the national herbarium (PBZT) for the second biological inventory of the site. A team of about 50 people participated, with Kew Madagascar’s grass team conducting fieldwork led by Fenitra Randrianarimanana.
 
 <figure style="width: 1000px" class="align-centre">
@@ -21,12 +25,20 @@ In October 2023, ValBio invited botanists from Kew, MBG and the national herbari
 </figure>
 {: style="text-align: center;"}
 
-We did a standardised inventory using the [Global Grassy Group plot method](https://protocolexchange.researchsquare.com/article/pex-1905/v1) and mapping to quantify species richness and composition of herbaceous plants in grassy biomes.
+*Figure 2: Plot session in the savanna with Jacqueline, Nala and Fenitra looking at specimens (left) and seeking shade  (right).*
+{: style="text-align: center;"}
+<br>
+
+We did a standardised inventory using the [Global Grassy Group (GGG) plot method](https://protocolexchange.researchsquare.com/article/pex-1905/v1) and mapping to quantify species richness and composition of herbaceous plants in grassy biomes.
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/iv-blog/2.png" alt="">
 </figure>
 {: style="text-align: center;"}
+
+*Figure 3: The GGG plot set up with a 50m tape measure (left) and a 1m diameter circle within which plants and ecological data are recorded (right).*
+{: style="text-align: center;"}
+<br>
 
 We surveyed grassland and forest areas in Analabe, the north part of the Protected Area, to look for localities with the greatest grass (Poaceae) diversity such as the high elevation grassy ecosystem above the forest. We have also done some plots in the savannas near the Phoenix Conservancy experimental reforestation.
 
@@ -39,6 +51,9 @@ The main dominant Poaceae is *Loudetia simplex*, known locally as "Horo", which 
 </figure>
 {: style="text-align: center;"}
 
+*Figure 4: Loudetia simplex or "Horo" in the Ivohiboro grasslands.*
+{: style="text-align: center;"}
+<br>
 Our plant inventories should help to identify the savannas' value for their biodiversity and environmental potential, including selecting good grazing locations for the people surrounding the Protected Area and identifying appropriate sites for tree planting. Although Ivohiboro is among the red areas of the Ihorombe region for insecurity, we find that it is a potential location for grass collection both in the savannas and inside the forest. This area is now one of the study sites of the TANETI project, funded by [GCBC](https://www.gcbc.org.uk/) to optimize spatial resource management of Madagascar's open grassy ecosystems supporting livelihoods, climate, and biodiversity in a global biodiversity hotspot. 
 
 These results are just the beginning. It is important to note that our work to date represents a partial inventory only and further visits to the site for botanical surveying during different seasons would be required to provide more complete plant lists.
