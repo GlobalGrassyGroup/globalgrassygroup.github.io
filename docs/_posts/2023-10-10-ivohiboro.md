@@ -1,5 +1,5 @@
 ---
-title: "Recognising Malagasy grasslands in Ivohiboro"
+title: "Recognising diverse Malagasy grasslands in Ivohiboro"
 layout: splash
 header:
   overlay_image: /images/sa-blog/2.png
