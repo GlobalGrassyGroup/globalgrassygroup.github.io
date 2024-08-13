@@ -5,7 +5,7 @@ header:
   overlay_image: /images/iv-blog/5.JPG
 excerpt: "***By Fenitra Randrianarimanana, December 2023***"
 ---
-Madagascar's flora is exceptionally diverse and largely endemic, with ecosystems ranging from vast grasslands to tropical forests and deserts. Kew has been working in Madagascar since 1986, collaborating with Malagasy and international researchers. 
+Madagascar's flora is exceptionally diverse and largely endemic, with ecosystems ranging from vast grasslands to tropical forests and deserts. (Kew)[https://www.kew.org/science/collections-and-resources/research-facilities/kew-madagascar-conservation-centre] has been working in Madagascar since 1986, collaborating with Malagasy and international researchers. 
 
 In May 2016, a team of biologists from the ValBio Centre discovered a large piece of almost intact forest on Mount Vohibory in the southeast of Ihosy. This forest is now part of the New Protected Area (NPA) of Ivohiboro, established in 2023 and covering approximately 3,700 hectares. It is managed by the Malagasy Institut pour la Conservation des Ecosystèmes (MICET) in collaboration with the Centre ValBio, the Ministry of Environment and Sustainable Development of Madagascar, and a committee of representatives from surrounding villages.
 
@@ -40,14 +40,11 @@ The main dominant Poaceae is Loudetia simplex, known locally as "Horo", which ac
 </figure>
 {: style="text-align: center;"}
 
-These plant inventories should help to identify the savanna's value for their biodiversity and environmental potential, including selecting good grazing areas for the people surrounding the NPA and identifying appropriate areas for tree planting.
-
-This area is now a part of the study site of the TANETI project, funded by GCBC to optimize spatial resource management of Madagascar's open grassy ecosystems supporting livelihoods, climate, and biodiversity in a global biodiversity hotspot.
-
-Ivohiboro NPA is among the red areas of the Ihorombe region for insecurity. However, we find that it is a potential site for grass collection both in the savannas and inside the forest.
+These plant inventories should help to identify the savanna's value for their biodiversity and environmental potential, including selecting good grazing areas for the people surrounding the NPA and identifying appropriate areas for tree planting. This area is now a part of the study site of the TANETI project, funded by GCBC to optimize spatial resource management of Madagascar's open grassy ecosystems supporting livelihoods, climate, and biodiversity in a global biodiversity hotspot. Although Ivohiboro NPA is among the red areas of the Ihorombe region for insecurity, we find that it is a potential site for grass collection both in the savannas and inside the forest.
 
 These results are just the beginning. It is important to note that our work to date represents a partial inventory only and further visits to the site for botanical surveying during different seasons would be required to provide a more complete plant list for the site.
 
 **Acknowledgments** 
+
 Thanks to funding from GCRF Royal Society International Collaboration Award 2020 and Centre ValBio for inviting the team.
 With thanks to Nahita Nala (local guide of Ivohiboro NPA ) and Jacqueline Razanatsoa from PBZT for their assistance.
