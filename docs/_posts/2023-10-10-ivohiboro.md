@@ -40,7 +40,7 @@ We did a standardised inventory using the [Global Grassy Group (GGG) plot method
 {: style="text-align: center;"}
 <br>
 
-Among the grass formations where we sampled, there is a mix of savanna compositions in the north part: including *Loudetia simplex*, *Andropogon* spp., *Hyparrhenia* spp., and *Heteropogon contortus* savannas. The main dominant Poaceae is *Loudetia simplex*, known locally as "Horo", which according to local people is the basis of the region's name "Ihorombe".
+Among the grass formations where we sampled in the north, there is a mix of savanna compositions including *Loudetia simplex*, *Andropogon* spp., *Hyparrhenia* spp., and *Heteropogon contortus* savannas. The main dominant Poaceae is *Loudetia simplex*, known locally as "Horo", which according to local people is the basis of the region's name "Ihorombe".
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/iv-blog/4.png" alt="">
