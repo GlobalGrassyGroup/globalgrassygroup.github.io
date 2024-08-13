@@ -20,6 +20,8 @@ In May 2016, a team of biologists from the [ValBio Centre](https://www.stonybroo
 
 In October 2023, ValBio invited botanists from Kew, MBG and the national herbarium (PBZT) for the second biological inventory of the site. A team of about 50 people participated, with Kew Madagascar’s grass team conducting fieldwork led by Fenitra Randrianarimanana.
 
+We did a standardised inventory using the [Global Grassy Group (GGG) plot method](https://protocolexchange.researchsquare.com/article/pex-1905/v1) and mapping to quantify species richness and composition of herbaceous plants in grassy biomes. We surveyed grassland and forest areas in Analabe, the north part of the Ivohiboro Protected Area, to look for localities with the greatest grass (Poaceae) diversity such as the high elevation grassy ecosystem above the forest. We also surveyed some plots in the savannas near the Phoenix Conservancy experimental reforestation.
+
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/iv-blog/3.png" alt="">
 </figure>
@@ -29,8 +31,6 @@ In October 2023, ValBio invited botanists from Kew, MBG and the national herbari
 {: style="text-align: center;"}
 <br>
 
-We did a standardised inventory using the [Global Grassy Group (GGG) plot method](https://protocolexchange.researchsquare.com/article/pex-1905/v1) and mapping to quantify species richness and composition of herbaceous plants in grassy biomes.
-
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/iv-blog/2.png" alt="">
 </figure>
@@ -39,8 +39,6 @@ We did a standardised inventory using the [Global Grassy Group (GGG) plot method
 *Figure 3: The GGG plot set up with a 50m tape measure (left) and a 1m diameter circle within which plants and ecological data are recorded (right).*
 {: style="text-align: center;"}
 <br>
-
-We surveyed grassland and forest areas in Analabe, the north part of the Protected Area, to look for localities with the greatest grass (Poaceae) diversity such as the high elevation grassy ecosystem above the forest. We have also done some plots in the savannas near the Phoenix Conservancy experimental reforestation.
 
 Among the grass formations where we sampled, there is a mix of savanna compositions in the north part: including *Loudetia simplex*, *Andropogon* spp., *Hyparrhenia* spp., and *Heteropogon contortus* savannas. 
 
