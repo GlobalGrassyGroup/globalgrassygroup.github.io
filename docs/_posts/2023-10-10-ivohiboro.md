@@ -2,7 +2,7 @@
 title: "Recognising diverse Malagasy grasslands in Ivohiboro"
 layout: splash
 header:
-  overlay_image: /images/sa-blog/2.png
+  overlay_image: /images/iv-blog/5.JPG
 excerpt: "***By Fenitra Randrianarimanana, December 2023***"
 ---
 Madagascar's flora is exceptionally diverse and largely endemic, with ecosystems ranging from vast grasslands to tropical forests and deserts. Kew has been working in Madagascar since 1986, collaborating with Malagasy and international researchers. 
