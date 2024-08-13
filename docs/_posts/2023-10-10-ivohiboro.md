@@ -28,7 +28,7 @@ We did a standardised inventory using the [Global Grassy Group plot method](http
 </figure>
 {: style="text-align: center;"}
 
-We surveyed grassland and forest areas in Analabe, the north part of the Protected Area, to look for localities with the greatest Poaceae diversity such as the high elevation grassy ecosystem above the forest. We have also done some plots in the savannas near the Phoenix Conservancy experimental reforestation.
+We surveyed grassland and forest areas in Analabe, the north part of the Protected Area, to look for localities with the greatest grass (Poaceae) diversity such as the high elevation grassy ecosystem above the forest. We have also done some plots in the savannas near the Phoenix Conservancy experimental reforestation.
 
 Among the grass formations where we sampled, there is a mix of savanna compositions in the north part: including *Loudetia simplex*, *Andropogon* spp., *Hyparrhenia* spp., and *Heteropogon contortus* savannas. 
 
