@@ -5,7 +5,7 @@ layout: splash
 <br>
 
 ## Community composition
-Analysing species identity, number and relative abundance
+Analysing species identity, richness and relative abundance
 <br>
 
 <figure style="width: 1000px" class="align-centre">
