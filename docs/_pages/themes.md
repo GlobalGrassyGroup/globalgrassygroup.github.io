@@ -3,6 +3,7 @@ permalink: /themes/
 layout: splash
 <br>
 <br>
+---
 
 ## Community composition
 Analysing species identity, richness and relative abundance
