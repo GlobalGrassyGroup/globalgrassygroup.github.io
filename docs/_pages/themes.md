@@ -1,8 +1,6 @@
 ---
 permalink: /themes/
 layout: splash
-<br>
-<br>
 ---
 
 ## Community composition
