@@ -76,6 +76,7 @@ I am interested in the intersection of ecology, biogeography and data science wi
 I have studied grass taxonomy since 2013, and I am the first Malagasy botanist specialized in Poaceae. Over time, my career has expanded into other aspects of grasslands. My current PhD research focuses on plant diversity and livelihoods in the grasslands of the central highlands in Madagascar to demonstrate their origins, importance in conservation and use by local communities.
 <br>
 <br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/fenitra-randrianarimanana.jpg" alt="">
 </figure> 
@@ -84,9 +85,13 @@ I have studied grass taxonomy since 2013, and I am the first Malagasy botanist s
 I am based in Madagascar and my role is to work on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
 <br>
 <br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/susan_eshelman.jpg" alt="">
 </figure> 
 
 #### Susan Eshelman
 I am a University of Edinburgh, Royal Botanic Gardens Edinburgh, and Kew Gardens PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+<br>
+<br>
+<br>
