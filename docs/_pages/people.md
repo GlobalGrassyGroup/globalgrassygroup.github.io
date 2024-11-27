@@ -30,7 +30,7 @@ I work on understanding the dynamics of savanna ecosystems in the context of glo
 </figure> 
 
 #### Bat Vorontsova
-_Royal Botanic Gardens, Kew, United Kingdom_
+_Royal Botanic Gardens Kew, United Kingdom_
 
 I study grasses and everything about them, with a particular focus on tropical African diversity and poorly known lineages, their evolutionary history, and the history of tropical grasslands and savannas. I use herbarium based alpha taxonomy to enrich our understanding of ecosystems and their function. My main research direction is a full taxonomic treatment of Poaceae for the Flora of Madagascar, a long term project incorporating a range of ecological, phylogenetic, ethnobotanical, and horticultural work.
 <br>
@@ -75,6 +75,8 @@ I am interested in the intersection of ecology, biogeography and data science wi
 </figure> 
 
 #### Olinirina Nanjarisoa
+_Kew Madagascar Conservation Centre, Madagascar_
+
 I have studied grass taxonomy since 2013, and I am the first Malagasy botanist specialized in Poaceae. Over time, my career has expanded into other aspects of grasslands. My current PhD research focuses on plant diversity and livelihoods in the grasslands of the central highlands in Madagascar to demonstrate their origins, importance in conservation and use by local communities.
 <br>
 <br>
@@ -87,7 +89,9 @@ I have studied grass taxonomy since 2013, and I am the first Malagasy botanist s
 </figure> 
 
 #### Fenitra Randrianarimanana
-I am a PhD student based at the University of Antananarivo and Royal Botanic Gardens Kew Madagascar and my role is to work on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
+_Kew Madagascar Conservation Centre and University of Antananarivo, Madagascar_
+
+I am a PhD student working on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
 <br>
 <br>
 <br>
@@ -99,7 +103,9 @@ I am a PhD student based at the University of Antananarivo and Royal Botanic Gar
 </figure> 
 
 #### Susan Eshelman
-I am a University of Edinburgh, Royal Botanic Gardens Edinburgh, and Kew Gardens PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
+
+I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
 <br>
 <br>
 <br>
