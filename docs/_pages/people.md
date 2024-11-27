@@ -90,7 +90,7 @@ I am a PhD student based at the University of Antananarivo and Royal Botanic Gar
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
 </figure> 
 
 #### Susan Eshelman
