@@ -86,7 +86,7 @@ I have studied grass taxonomy since 2013, and I am the first Malagasy botanist s
 </figure> 
 
 #### Fenitra Randrianarimanana
-I am based in Madagascar and my role is to work on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
+I am based at the University of Antananarivo and Royal Botanic Gardens Kew Madagascar and my role is to work on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
 <br>
 <br>
 <br>
