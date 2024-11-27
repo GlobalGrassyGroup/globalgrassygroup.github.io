@@ -80,6 +80,8 @@ I have studied grass taxonomy since 2013, and I am the first Malagasy botanist s
 <br>
 <br>
 <br>
+<br>
+
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/fenitra-randrianarimanana.jpg" alt="">
 </figure> 
@@ -90,12 +92,15 @@ I am a PhD student based at the University of Antananarivo and Royal Botanic Gar
 <br>
 <br>
 <br>
+<br>
+
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
 </figure> 
 
 #### Susan Eshelman
 I am a University of Edinburgh, Royal Botanic Gardens Edinburgh, and Kew Gardens PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+<br>
 <br>
 <br>
 <br>
