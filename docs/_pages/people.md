@@ -10,7 +10,7 @@ layout: splash
 </figure> 
 
 #### Caroline Lehmann
-_The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
+_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
 I work on improving our understanding of the ecology and evolution of tropical ecosystems, specifically savannas. I do this via linking remotely sensed data, experimental data, meta-analyses and field observations. My current field research program focuses on understudied regions such as Madagascar, southern Africa and South-East Asia and how improved understanding of these regions can inform understanding of community assembly and dynamics of grassy biomes.
 <br>
@@ -50,26 +50,24 @@ My research interests lie in understanding how large mammal herbivores shape veg
 </figure> 
 
 #### Anya Courtenay
-_The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
+_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
 I manage the GGG database and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
-<br>
-<br>
-<br>
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
-</figure> 
-
-#### Jakub Wieczorkowski
-_The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
-
-I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. 
 <br>
 <br>
 <br>
 
 ## Affiliated students
 
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
+</figure> 
+
+#### Jakub Wieczorkowski
+I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. I am a PhD student based at the University of Edinburgh and Royal Botanic Garden Edinburgh. 
+<br>
+<br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/olinirina-nanjarisoa.jpg" alt="">
 </figure> 
