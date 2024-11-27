@@ -55,6 +55,7 @@ _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 I manage the GGG database and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
 <br>
 <br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
 </figure> 
