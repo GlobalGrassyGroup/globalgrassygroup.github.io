@@ -90,7 +90,7 @@ I am based at the University of Antananarivo and Royal Botanic Gardens Kew Madag
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/susan_eshelman.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpg" alt="">
 </figure> 
 
 #### Susan Eshelman
