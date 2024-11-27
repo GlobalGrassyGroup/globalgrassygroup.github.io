@@ -55,6 +55,7 @@ _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 I manage the GGG database and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
 <br>
 <br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
 </figure> 
@@ -63,6 +64,7 @@ I manage the GGG database and support analyses. My work focuses on the functiona
 _The University of Edinburgh, Royal Botanic Garden Edinburgh, United Kingdom_
 
 I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. 
+<br>
 <br>
 <br>
 
@@ -77,12 +79,16 @@ I have studied grass taxonomy since 2013, and I am the first Malagasy botanist s
 <br>
 <br>
 <br>
+<br>
+<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/fenitra-randrianarimanana.jpg" alt="">
 </figure> 
 
 #### Fenitra Randrianarimanana
 I am based in Madagascar and my role is to work on the taxonomy of grasses, especially the Poaceae species found in the malagasy grasslands. My research interests involve studying every contribution of grasses and grasslands to human activities, from their origins to their uses in farming and weed management.
+<br>
+<br>
 <br>
 <br>
 <br>
