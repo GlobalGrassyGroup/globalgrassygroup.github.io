@@ -68,7 +68,7 @@ I am interested in the intersection of ecology, biogeography and data science wi
 <br>
 <br>
 <br>
-<br>
+
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/olinirina-nanjarisoa.jpg" alt="">
 </figure> 
