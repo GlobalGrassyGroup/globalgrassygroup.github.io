@@ -12,5 +12,5 @@ main:
     url: /protocol/
   - title: "Resources"
     url: /resources/
-  - title: "Datasets"
-    url: /data/
+  - title: "Data"
+    url: /datasets/
