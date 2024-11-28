@@ -2,14 +2,5 @@
 permalink: /news/
 layout: posts
 ---
-#### Latest from the Global Grassy Group
 
-
-<iframe 
-    src="[https://edgeosci.maps.arcgis.com/apps/dashboards/b300dc73be8945878557c781ef15eec4](https://arcg.is/uaD4b1)" 
-    width="100%" 
-    height="800px" 
-    frameborder="0" 
-    allowfullscreen
-    title="ArcGIS Dashboard">
-  </iframe>
+<iframe src="https://storymaps.arcgis.com/stories/bfb52c2c328542c581a0ed62c99b0d8d" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
