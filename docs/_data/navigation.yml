@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "News"
+    url: /news/
   - title: "People"
     url: /people/
   - title: "Research themes"
     url: /themes/
-  - title: "News"
-    url: /news/
   - title: "Sampling protocols"
     url: /protocol/
   - title: "Resources"
