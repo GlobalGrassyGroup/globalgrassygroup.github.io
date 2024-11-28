@@ -13,8 +13,4 @@ main:
   - title: "Resources"
     url: /resources/
   - title: "Datasets"
-    url: /datasets/
-  - title: "Publications"
-    url: /publications/
-  - title: "Contact"
-    url: /contact/
+    url: /data/
