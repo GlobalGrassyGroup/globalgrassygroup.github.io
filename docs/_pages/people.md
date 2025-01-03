@@ -121,7 +121,7 @@ I am a PhD researcher looking at grassy ecosystems globally. In particular, my r
 #### Tshering Dorji
 _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
-I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+I am interested in grasses and the ecology of Himalayan grassland ecosystems and understanding their links environment, climate and people. I am currently studying the dynamics of woody encroachment in Bhutan’s open ecosystems and their impacts on biodiversity, soil and communities combining remote sensing, functional ecology and social research.
 <br>
 <br>
 <br>
