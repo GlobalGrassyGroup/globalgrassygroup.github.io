@@ -93,7 +93,7 @@ I am a PhD student working on the taxonomy of grasses, especially the Poaceae sp
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/daiana-rabeharison.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/diana-rabeharison.jpg" alt="">
 </figure>
 
 #### Diana Rabeharison
