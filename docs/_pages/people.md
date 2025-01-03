@@ -68,7 +68,7 @@ I am interested in the intersection of ecology, biogeography and data science wi
 <br>
 <br>
 
-## Affiliated students
+## Current affiliated students
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/olinirina-nanjarisoa.jpg" alt="">
@@ -93,10 +93,32 @@ I am a PhD student working on the taxonomy of grasses, especially the Poaceae sp
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/daiana-rabeharison.jpg" alt="">
+</figure>
+
+#### Diana Rabeharison
+_Kew Madagascar Conservation Centre and University of Antananarivo, Madagascar_
+
+As a research assistant, I conduct extensive fieldwork in Madagascar to understand how vegetation and biodiversity influence carbon stocks, focusing on the central highlands of Madagascar. My work explores the  impacts of land-use changes and Pinus invasions on carbon storage, while forecasting potential future shifts in carbon dynamics and biodiversity.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
 </figure> 
 
 #### Susan Eshelman
+_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
+
+I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tshering-dorji.jpg" alt="">
+</figure> 
+
+#### Tshering Dorji
 _The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
 
 I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
