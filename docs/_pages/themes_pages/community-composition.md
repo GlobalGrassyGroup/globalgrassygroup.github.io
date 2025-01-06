@@ -1,5 +1,5 @@
 ---
-permalink: /community-composition/
+permalink: /themes_pages/community-composition/
 layout: splash
 hidden: true
 title: "Community Composition"
