@@ -9,5 +9,5 @@ header:
 
 ## Regional herbaria currently associated with the Global Grassy Group
 
-<!-- <iframe src="https://storymaps.arcgis.com/stories/bfb52c2c328542c581a0ed62c99b0d8d?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe> -->
+<iframe src="https://storymaps.arcgis.com/stories/e34a1bde75674524a075e132d74e1532?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 
