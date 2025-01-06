@@ -4,7 +4,7 @@ layout: splash
 hidden: true
 title: "About"
 header:
-  overlay_image: /images/grassy.png
+  overlay_image: /images/grassy2.JPG
 ---
 <br>
 
