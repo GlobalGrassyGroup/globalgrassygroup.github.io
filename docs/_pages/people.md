@@ -40,16 +40,6 @@ I study grasses and everything about them, with a particular focus on tropical A
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gareth-hempson.jpg" alt="">
-</figure> 
-
-#### Gareth Hempson
-_University of the Witwatersrand, South Africa_
-
-My research interests lie in understanding how large mammal herbivores shape vegetation communities in African ecosystems - both at very large scales and via interactive effects with fire. I am currently analysing patterns of historical herbivore biomass and fire at the continental scale in Africa. My field research explores grass community responses to frequent grazing.
-<br>
-<br>
-<figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/anya-courtenay.JPG" alt="">
 </figure> 
 
@@ -59,11 +49,19 @@ _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 I manage the GGG database and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
 <br>
 <br>
-<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gareth-hempson.jpg" alt="">
+</figure> 
+
+#### Gareth Hempson
+_University of the Witwatersrand, South Africa_
+
+My research interests lie in understanding how large mammal herbivores shape vegetation communities in African ecosystems - both at very large scales and via interactive effects with fire. I am currently analysing patterns of historical herbivore biomass and fire at the continental scale in Africa. My field research explores grass community responses to frequent grazing.
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
 </figure> 
-
+<br>
+<br>
 #### Jakub Wieczorkowski
 _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
