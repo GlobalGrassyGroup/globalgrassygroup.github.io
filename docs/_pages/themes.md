@@ -6,14 +6,14 @@ feature_row:
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, richness and relative abundance"
-    url: /_pages/themes_pages/community-composition/
+    url: "/themes_pages/community-composition/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme4.png
     alt: "grassy 2"
     title: "Biogeography"
     excerpt: "Understanding distributions and drivers of plant diversity"
-    url: /themes_pages/biogeography.md
+    url: /themes_pages/biogeography.md/
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/theme2.jpg
@@ -46,6 +46,7 @@ Protocol for sampling community composition can be accessed [here](https://globa
 <br>
 
 ## Biogeography
+Hi
 
 The biogeography of Earth's ecosystems is typically evaluated using biome classifications based on trees. The grassy ground layer, and indeed the herbaceous component more broadly, of many global biomes is often neglected in descriptions and therefore in understanding ecosystem dynamics and biogeography. Major lineages of grasses turnover along continental gradients of temperature, rainfall, seasonality, and fire. Quantitative examination of these gradients matched with new community composition data can help evaluate discrepancies among regions to understand the assembly of regional floras. Further, new detailed community composition data applied at regional scales can help resolve persistent issues around misclassification of grassy ecosystems as degraded forests, providing an evidence base for ecologically appropriate policy and management strategies.
 <br>
