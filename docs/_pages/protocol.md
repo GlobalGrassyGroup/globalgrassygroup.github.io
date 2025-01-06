@@ -16,13 +16,13 @@ feature_row:
   - image_path: /images/trait.JPG
     alt: "grassy 2"
     title: "Functional traits protocol"
-    excerpt: "Measuring plant functional traits in grassy ecoeystems"
+    excerpt: "Measuring plant functional traits in grassy ecosystems"
     url: /traits-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/press.png
     alt: "grassy 3"
-    title: "Equipment list"
+    title: "Global Grassy Group equipment list"
     excerpt: "Measuring plant characteristics which affect their performance"
     url: /equipment/
     btn_class: "btn--primary"
