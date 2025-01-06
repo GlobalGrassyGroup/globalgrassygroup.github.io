@@ -6,14 +6,14 @@ feature_row:
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, richness and relative abundance"
-    url: "/themes_pages/community-composition/"
+    url: "/themes_pages/community-composition.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme4.png
     alt: "grassy 2"
     title: "Biogeography"
     excerpt: "Understanding distributions and drivers of plant diversity"
-    url: "/themes_pages/biogeography.html"
+    url: /themes_pages/biogeography.html
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/theme2.jpg
@@ -38,7 +38,7 @@ feature_row:
 
 ## Community composition
 <br>
-Despite the grassy ground layer being the defining element of grassy biomes, ground layer data are not always collected even though its constituent grasses and forbs drive the processes central to shaping the dynamics of these ecosystems. Among grassy biomes, there is generally a lack of consistency in data collections that due to the nature of herbaceous plants makes it difficult to compare richness, functional and taxonomic composition among sites of varied size and organisation. Our approach is to motivate standardised data to foster and facilitate new data collections in grassy biomes to answer questions about community assembly related to environmental change.
+hi Despite the grassy ground layer being the defining element of grassy biomes, ground layer data are not always collected even though its constituent grasses and forbs drive the processes central to shaping the dynamics of these ecosystems. Among grassy biomes, there is generally a lack of consistency in data collections that due to the nature of herbaceous plants makes it difficult to compare richness, functional and taxonomic composition among sites of varied size and organisation. Our approach is to motivate standardised data to foster and facilitate new data collections in grassy biomes to answer questions about community assembly related to environmental change.
 
 Protocol for sampling community composition can be accessed [here](https://globalgrassygroup.github.io/protocol/).
 <br>
