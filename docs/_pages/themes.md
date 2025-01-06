@@ -6,7 +6,7 @@ feature_row:
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, richness and relative abundance"
-    url: /_themes/2023-01-01-communitycomposition.md
+    url: "/_themes/2023-01-01-communitycomposition.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme4.png
