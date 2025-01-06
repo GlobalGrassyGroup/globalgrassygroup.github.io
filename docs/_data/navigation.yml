@@ -8,6 +8,8 @@ main:
     url: /themes/
   - title: "Sampling protocols"
     url: /protocol/
+  - title: "Resources"
+    url: /resources/
   - title: "Herbaria"
     url: /herbaria/
   - title: "Data"
