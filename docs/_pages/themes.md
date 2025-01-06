@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /images/theme3.jpg
     alt: "grassy 4"
-    title: "Phylogeny and taxonomy"
+    title: "Taxonomy and phylogenetics"
     excerpt: "Studying species classification and the history of species evolution"
     url: /taxonomy/
     btn_class: "btn--primary"
