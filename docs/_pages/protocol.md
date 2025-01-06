@@ -16,7 +16,7 @@ feature_row:
   - image_path: /images/press.png
     alt: "press"
     title: "Global Grassy Group equipment list"
-    excerpt: "Measuring plant characteristics which affect their performance"
+    excerpt: "Preparing for fieldwork"
     url: /equipment/
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -38,7 +38,7 @@ feature_row:
     alt: "collect"
     title: "DNA preservation"
     excerpt: "Sampling for DNA collections"
-    url: /specimens/
+    url: /dna/
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
