@@ -2,7 +2,7 @@
 permalink: /datasets/
 layout: splash
 hidden: true
-title: "Datasets"
+title: "Data"
 header:
   overlay_image: /images/grassy2.JPG
 ---
