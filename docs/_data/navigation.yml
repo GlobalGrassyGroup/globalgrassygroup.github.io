@@ -10,8 +10,6 @@ main:
     url: /protocol/
   - title: "Resources"
     url: /resources/
-  - title: "Herbaria"
-    url: /herbaria/
   - title: "Data"
     url: /datasets/
   - title: "People"
