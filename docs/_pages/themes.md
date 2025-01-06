@@ -1,6 +1,10 @@
 ---
 permalink: /themes/
 layout: splash
+hidden: true
+title: "Research themes"
+header:
+  overlay_image: /images/grassy2.JPG
 feature_row:
   - image_path: /images/theme1.png
     alt: "grassy 1"
