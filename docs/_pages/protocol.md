@@ -6,7 +6,7 @@ title: "Sampling protocols"
 header:
   overlay_image: /images/grassy2.JPG
 feature_row:
-  - image_path: /images/theme1.png
+  - image_path: /images/hoop.JPG
     alt: "grassy 1"
     title: "Global Grassy Group protocol"
     excerpt: "Recording ground-layer diversity and composition"
@@ -27,7 +27,7 @@ feature_row:
     url: /equipment/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/theme3.jpg
+  - image_path: /images/specimen.JPG
     alt: "grassy 4"
     title: "Making specimens"
     excerpt: "Pressing plants and depositing at herbaria"
