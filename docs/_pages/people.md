@@ -64,10 +64,12 @@ My research interests lie in understanding how large mammal herbivores shape veg
 <br>
 <br>
 <br>
+<br>
 #### Jakub Wieczorkowski
 _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
 I am interested in the intersection of ecology, biogeography and data science with the aim to understand the biodiversity change in the grassy biomes. My current research focuses on the effects of woody encroachment and fire suppression on ground layer diversity. I am a PhD student based at the University of Edinburgh and Royal Botanic Garden Edinburgh. 
+<br>
 <br>
 <br>
 <br>
