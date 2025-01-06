@@ -1,6 +1,10 @@
 ---
 permalink: /people/
 layout: splash
+hidden: true
+title: "People"
+header:
+  overlay_image: /images/grassy2.JPG
 ---
 
 ## Team
