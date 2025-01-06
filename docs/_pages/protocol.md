@@ -13,13 +13,6 @@ feature_row:
     url: /GGG-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/trait.JPG
-    alt: "traits"
-    title: "Functional traits protocol"
-    excerpt: "Measuring plant functional traits in grassy ecosystems"
-    url: /traits-protocol/
-    btn_class: "btn--primary"
-    btn_label: "Learn more"   
   - image_path: /images/press.png
     alt: "press"
     title: "Global Grassy Group equipment list"
@@ -27,6 +20,13 @@ feature_row:
     url: /equipment/
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /images/trait.JPG
+    alt: "traits"
+    title: "Functional traits protocol"
+    excerpt: "Measuring plant functional traits in grassy ecosystems"
+    url: /traits-protocol/
+    btn_class: "btn--primary"
+    btn_label: "Learn more" 
   - image_path: /images/specimen.JPG
     alt: "specimen"
     title: "Making specimens"
@@ -40,7 +40,7 @@ feature_row:
     excerpt: "Sampling for DNA collections"
     url: /specimens/
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Learn more"  
 ---
 <br>
 {% include feature_row %}
