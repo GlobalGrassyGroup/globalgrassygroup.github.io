@@ -2,9 +2,9 @@
 permalink: /about/
 layout: splash
 hidden: true
-title: "Global Grassy Group"
+title: "About"
 header:
-  overlay_image: /images/p2.jpg
+  overlay_image: /images/grassy.png
 ---
 <br>
 
