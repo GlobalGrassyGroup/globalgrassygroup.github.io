@@ -34,7 +34,7 @@ feature_row:
     url: /specimens/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    - image_path: /images/theme3.jpg
+- image_path: /images/theme3.jpg
     alt: "grassy 4"
     title: "DNA preservation"
     excerpt: "Sampling for DNA collections"
