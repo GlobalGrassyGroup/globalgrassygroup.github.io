@@ -6,14 +6,14 @@ feature_row:
     alt: "grassy 1"
     title: "Community composition"
     excerpt: "Analysing species identity, richness and relative abundance"
-    url: "/themes_pages/community-composition/"
+    url: /themes_pages/community-composition/
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme4.png
     alt: "grassy 2"
     title: "Biogeography"
     excerpt: "Understanding distributions and drivers of plant diversity"
-    url: "/themes_pages/biogeography"
+    url: /themes_pages/biogeography
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/theme2.jpg
