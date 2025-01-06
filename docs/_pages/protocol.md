@@ -22,16 +22,23 @@ feature_row:
     btn_label: "Learn more"   
   - image_path: /images/theme2.jpg
     alt: "grassy 3"
-    title: "Functional traits and life history strategies"
+    title: "Equipment list"
     excerpt: "Measuring plant characteristics which affect their performance"
-    url: /traits/
+    url: /equipment/
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme3.jpg
     alt: "grassy 4"
-    title: "Taxonomy and phylogenetics"
-    excerpt: "Studying species classification and the history of species evolution"
-    url: /taxonomy/
+    title: "Making specimens"
+    excerpt: "Pressing plants and depositing at herbaria"
+    url: /specimens/
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    - image_path: /images/theme3.jpg
+    alt: "grassy 4"
+    title: "DNA preservation"
+    excerpt: "Sampling for DNA collections"
+    url: /specimens/
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
