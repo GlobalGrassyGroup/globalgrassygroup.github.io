@@ -9,15 +9,15 @@ feature_row:
   - image_path: /images/theme1.png
     alt: "grassy 1"
     title: "Global Grassy Group protocol"
-    excerpt: "Community composition"
+    excerpt: "Recording ground-layer diversity and composition"
     url: /GGG-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/theme4.png
     alt: "grassy 2"
-    title: "Biogeography"
-    excerpt: "Understanding distributions and drivers of plant diversity"
-    url: /biogeography/
+    title: "Functional traits protocol"
+    excerpt: "Measuring plant functional traits in grassy ecoeystems"
+    url: /traits-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/theme2.jpg
