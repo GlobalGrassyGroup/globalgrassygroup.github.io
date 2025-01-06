@@ -13,14 +13,14 @@ feature_row:
     url: /GGG-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/theme4.png
+  - image_path: /images/trait.JPG
     alt: "grassy 2"
     title: "Functional traits protocol"
     excerpt: "Measuring plant functional traits in grassy ecoeystems"
     url: /traits-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"   
-  - image_path: /images/theme2.jpg
+  - image_path: /images/press.png
     alt: "grassy 3"
     title: "Equipment list"
     excerpt: "Measuring plant characteristics which affect their performance"
@@ -34,7 +34,7 @@ feature_row:
     url: /specimens/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/theme3.jpg
+  - image_path: /images/collect.JPG
     alt: "grassy 4"
     title: "DNA preservation"
     excerpt: "Sampling for DNA collections"
