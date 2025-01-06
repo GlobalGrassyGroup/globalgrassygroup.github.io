@@ -1,5 +1,5 @@
 ---
-permalink: /themes_pages/community-composition/
+permalink: /community-composition/
 layout: splash
 hidden: true
 title: "Community Composition"
@@ -7,9 +7,6 @@ header:
   overlay_image: /images/p2.jpg
 ---
 <br>
-
-
-## Community composition
 Analysing species identity, richness and relative abundance
 <br>
 
