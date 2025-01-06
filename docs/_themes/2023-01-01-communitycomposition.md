@@ -5,8 +5,6 @@ header:
   overlay_image: /images/tz-workshop/tz.JPG
 ---
 
-
-
 ## Community composition
 Analysing species identity, richness and relative abundance
 <br>
