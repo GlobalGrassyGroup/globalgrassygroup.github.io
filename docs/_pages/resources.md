@@ -2,7 +2,7 @@
 permalink: /resources/
 layout: splash
 hidden: true
-title: "Resources
+title: "Resources"
 header:
   overlay_image: /images/grassy2.JPG
 ---
