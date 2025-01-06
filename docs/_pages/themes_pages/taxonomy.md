@@ -2,7 +2,7 @@
 permalink: /taxonomy/
 layout: splash
 hidden: true
-title: "Taxonomy"
+title: "Taxonomy and Phylogenetics"
 header:
   overlay_image: /images/p2.jpg
 ---
