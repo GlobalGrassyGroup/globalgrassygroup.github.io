@@ -5,7 +5,7 @@ hidden: true
 title: "Resources"
 header:
   overlay_image: /images/grassy2.JPG
-
+feature_row:
   - image_path: /images/press.png
     alt: "press"
     title: "Global Grassy Group equipment list"
@@ -29,6 +29,11 @@ header:
     btn_label: "Learn more"  
 ---
 <br>
+<br>
+{% include feature_row %}
+
+
+
 ## Resources
 <a href="#1" markdown="1"> __1.__ Equipment list</a> <br>
 <a href="#2" markdown="1"> __2.__ Field data collection</a> <br>
