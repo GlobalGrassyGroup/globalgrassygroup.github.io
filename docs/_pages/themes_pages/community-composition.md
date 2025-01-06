@@ -2,11 +2,12 @@
 permalink: /community-composition/
 layout: splash
 hidden: true
-title: "Community Composition"
+title: "Research themes"
 header:
-  overlay_image: /images/p2.jpg
+  overlay_image: /images/grassy2.JPG
 ---
 <br>
+## Community composition
 *Analysing species identity, richness and relative abundance*
 <br>
 
