@@ -17,7 +17,7 @@ feature_row:
     alt: "specimen"
     title: "Specimen management"
     excerpt: "Collections and herbaria"
-    url: /specimens/
+    url: /collections/
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/collect.png
