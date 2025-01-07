@@ -7,7 +7,7 @@ header:
   overlay_image: /images/p2.jpg
 ---
 
-#### Fieldwork
+# Fieldwork
 
 ### Preparing for fieldwork
 Some steps to take before embarking on fieldwork: 
