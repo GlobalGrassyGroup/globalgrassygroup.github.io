@@ -61,12 +61,7 @@ My research interests lie in understanding how large mammal herbivores shape veg
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/jakub-wieczorkowski.jpg" alt="">
 </figure> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 #### Jakub Wieczorkowski
 _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
