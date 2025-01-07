@@ -1,5 +1,5 @@
 ---
-permalink: /specimens/
+permalink: /collections/
 layout: splash
 hidden: true
 title: "Workflow"
