@@ -25,5 +25,7 @@ If you would like to contribute your data to GGG, please read our [participation
 
 As part of our protocol, we collect plant specimens that are subsequently deposited in international and regional herbaria.
 
+The map below shows herbaria that we currently collaborate with to curate collections of specimens and confirm plant identifications. 
+
 <iframe src="https://storymaps.arcgis.com/stories/e34a1bde75674524a075e132d74e1532?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 
