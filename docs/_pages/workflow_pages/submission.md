@@ -9,11 +9,11 @@ header:
 
 # Data entry and submission
 
-## Data entry
+### Data entry
 
 During or after you have completed fieldwork, you should enter your data into spreadsheets so that they are in digital format. Please contact us to request these. 
 
-## Submitting data to the GGG database
+### Submitting data to the GGG database
 
 We manage a large database with all information from GGG sites across the globe. Please consider hosting your data with us. 
 
