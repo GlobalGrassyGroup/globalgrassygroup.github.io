@@ -7,7 +7,7 @@ header:
   overlay_image: /images/grassy2.JPG
 ---
 
-# Fieldwork
+# 1. Fieldwork
 
 ### Preparing for fieldwork
 Some steps to take before embarking on fieldwork: 
@@ -22,4 +22,4 @@ Some steps to take before embarking on fieldwork:
 While you are in the field, follow the data collection methods outlined in the GGG protocol as best as possible so that the data are comparable.
 
 
-### Next: [Specimen management](collections/)
+### Next: [2. Specimen management](collections/)
