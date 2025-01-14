@@ -22,4 +22,4 @@ If you are able to contribute data, please email your submission sheets to us.
 Your data will be kept private until permission is granted - you can find our data sharing policy here.
 
 
-### Next: [4. Data analysis](analysis/)
+### Next: [4. Data analysis](/analysis/)
