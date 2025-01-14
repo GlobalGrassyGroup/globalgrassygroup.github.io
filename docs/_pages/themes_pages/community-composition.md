@@ -8,6 +8,7 @@ header:
 ---
 <br>
 ## Community composition
+
 *Analysing species identity, richness and relative abundance*
 <br>
 
