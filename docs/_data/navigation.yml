@@ -6,8 +6,8 @@ main:
     url: /news/
   - title: "Research themes"
     url: /themes/
-  - title: "Sampling protocols"
-    url: /protocol/
+  - title: "Resources"
+    url: /resources/
   - title: "Workflow"
     url: /workflow/
   - title: "Data"
