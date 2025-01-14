@@ -10,4 +10,6 @@ header:
 
 Email: [globalgrassygroup@gmail.com](mailto:globalgrassygroup@gmail.com)
 <br>
-Database manager: Anya Courtenay
+<br>
+
+Database manager: [Anya Courtenay](https://globalgrassygroup.github.io/people/#anya-courtenay)
