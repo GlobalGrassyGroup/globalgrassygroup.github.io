@@ -4,7 +4,7 @@ layout: splash
 hidden: true
 title: "Workflow"
 header:
-  overlay_image: /images/p2.jpg
+  overlay_image: /images/grassy2.JPG
 ---
 
 # Fieldwork
@@ -22,4 +22,4 @@ Some steps to take before embarking on fieldwork:
 While you are in the field, follow the data collection methods outlined in the GGG protocol as best as possible so that the data are comparable.
 
 
-## Next: [Specimen management](collections/)
+### Next: [Specimen management](collections/)
