@@ -9,7 +9,7 @@ header:
 <br>
 #### Datasets
 
-Please contact globalgrassygroup@gmail.com to enquire about accessing data.
+Please [contact](/contact) GGG to enquire about accessing data.
 
 <br>
 
