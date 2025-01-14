@@ -4,10 +4,10 @@ layout: splash
 hidden: true
 title: "Workflow"
 header:
-  overlay_image: /images/p2.jpg
+  overlay_image: /images/grassy2.JPG
 ---
 
-# Data entry and submission
+# 3. Data entry and submission
 
 ### Data entry
 
@@ -20,3 +20,6 @@ We manage a large database with all information from GGG sites across the globe.
 If you are able to contribute data, please email your submission sheets to us. 
 
 Your data will be kept private until permission is granted - you can find our data sharing policy here.
+
+
+### Next: [4. Data analysis](analysis/)
