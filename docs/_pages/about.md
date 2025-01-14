@@ -17,15 +17,15 @@ Grassy biomes span ~40% of the global land surface. Grasslands, savannas and shr
 
 This network gathers ecologists and biologists aiming to standardise and improve vegetation sampling in grassy biomes. We host a database of ground-layer species composition data collected across different environmental gradients such as rainfall, fire and land-use.
 
-On this website, you can find our suggested [sampling protocols](/protocol/), [resources](/resources/) needed for undertaking fieldwork, [GGG datasets](/datasets/) (and [publications](/publications/) that used these data), and much more. 
+On this website, you can find our suggested [sampling protocols](/resources/), a [workflow](/workflow/) for undertaking fieldwork and managing data, and [publications](/datasets/) that used GGG. 
 
 If you would like to contribute your data to GGG, please read our [participation guide]() and [contact us](/contact/).
 
 
 ## Herbaria
 
-As part of our protocol, we collect plant specimens that are subsequently deposited in international and regional herbaria.
+As part of the GGG protocol, we [collect](/collections/) plant specimens that are subsequently deposited in international and regional herbaria.
 
-The map below shows herbaria that we currently collaborate with to curate collections of specimens and confirm plant identifications. 
+The map below shows herbaria that we currently collaborate with to curate collections of specimens and confirm plant identifications.
 
 <iframe src="https://storymaps.arcgis.com/stories/e34a1bde75674524a075e132d74e1532?cover=false" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
