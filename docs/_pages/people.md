@@ -139,7 +139,7 @@ I am interested in grasses and the ecology of Himalayan grassland ecosystems and
 #### Telmo António
 _The University of Coimbra, Portugal and Lisima Foundation, Angola_
 
-My PhD research aim is to understand whether fires threaten the existence of the large peatlands on the headwaters of the Okavango and how peatland agriculture interacts with fire. I am comparing the impact of early and late fires on peatlands and analyzing the changes that agriculture brings. 
+My PhD research aim is to understand whether fires threaten the existence of the large peatlands on the headwaters of the Okavango in Angola and how peatland agriculture interacts with fire. I am comparing the impact of early and late fires on peatlands and analyzing the changes that agriculture brings. 
 <br>
 <br>
 <br>
