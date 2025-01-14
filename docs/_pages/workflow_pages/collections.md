@@ -34,4 +34,4 @@ If you have questions about organising specimen transfers between herbaria, feel
 While you will have given field names to most species, it is recommended that the identification of each species is confirmed by a taxonomic expert at a herbarium by looking at the vouchers you collected. You should use these determined identifications for your final analyses.
 
 
-### Next: [3. Data submission](submission/)
+### Next: [3. Data submission](/submission/)
