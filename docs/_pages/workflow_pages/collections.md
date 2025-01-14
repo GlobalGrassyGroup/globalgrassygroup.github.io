@@ -15,7 +15,7 @@ As outlined in the GGG protocol, we request that vouchers are made of plants tha
 
 ### Finding a regional and international herbaria
 
-A map of herbaria that GGG already collaborates with is available here, and you can search for your nearest here.
+A map of herbaria that GGG already collaborates with is available [here](https://globalgrassygroup.github.io/about/#herbaria), and you can search for your nearest on the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/).
 
 ### Organising exports 
 
