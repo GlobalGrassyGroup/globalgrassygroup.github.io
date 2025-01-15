@@ -19,7 +19,7 @@ A map of herbaria that GGG already collaborates with is available [here](https:/
 
 ### Organising exports 
 
-Exporting plant specimens usually requires a lot of paperwork, including:
+Exporting plant specimens requires paperwork, usually including:
 1. Collection permits
 2. Phytosanitary certificates
 3. A letter of permission to export
