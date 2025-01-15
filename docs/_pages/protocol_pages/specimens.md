@@ -2,7 +2,7 @@
 permalink: /specimens/
 layout: splash
 hidden: true
-title: "Sampling protocols"
+title: "Resources"
 header:
   overlay_image: /images/grassy2.JPG
 ---
