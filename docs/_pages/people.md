@@ -150,7 +150,7 @@ My PhD research aim is to understand whether fires threaten the existence of the
 #### Eulalia Jordaan
 _North-West University, South Africa_
 
-My masters project aims to quantify the effects of long-term agricultural practises like ploughing on floristic and functional diversity in two different grassland vegetation types (drier and wetter) in the Highveld, South Africa. It has been particularly interesting to see the effect that (miss)management has had on not only the species diversity of recovering old-ploughed sites, but also the natural grasslands. 
+My masters project aims to quantify the effects of long-term agricultural practises like ploughing on floristic and functional diversity in two different grassland vegetation types (drier and wetter) in the Highveld, South Africa. It has been particularly interesting to see the effect that (mis)management has had on not only the species diversity of recovering old-ploughed sites, but also the natural grasslands. 
 <br>
 <br>
 <br>
