@@ -151,7 +151,15 @@ My PhD research aim is to understand whether fires threaten the existence of the
 _North-West University, South Africa_
 
 My masters project aims to quantify the effects of long-term agricultural practises like ploughing on floristic and functional diversity in two different grassland vegetation types (drier and wetter) in the Highveld, South Africa. It has been particularly interesting to see the effect that (miss)management has had on not only the species diversity of recovering old-ploughed sites, but also the natural grasslands. 
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/robert-oangila.jpg" alt="">
+</figure>
 
-<br>
-<br>
-<br>
+#### Robert Ang'ila
+_Karatina University and Mpala Research Centre, Kenya_
+
+My research examines the responses of savanna ecosystems' herbaceous layer to disturbances, such as livestock stocking rates and prolonged droughts. I also investigate how fine-scale edaphic variations influence the movements of large mammalian herbivores.
+
