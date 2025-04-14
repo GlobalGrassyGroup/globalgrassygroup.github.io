@@ -4,7 +4,7 @@ layout: splash
 hidden: true
 title: "Workflow"
 header:
-  overlay_image: /images/p2.jpg
+  overlay_image: /images/grassy2.JPG
 ---
 
 # 4. Data analysis
