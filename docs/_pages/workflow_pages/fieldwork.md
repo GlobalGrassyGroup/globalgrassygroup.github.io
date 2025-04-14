@@ -14,8 +14,8 @@ Some steps to take before embarking on fieldwork:
 
 1. Ensure you have correct permissions and permits to collect data and plants
 2. Familiarise yourself with the [GGG protocol](https://protocolexchange.researchsquare.com/article/pex-1905/v1)
-3. Download and print GGG datasheets for recording data - [contact us](contact/) to request the files
-4. Gather items on the [equiment list](protocol_pages/equipment/)
+3. Download and print GGG datasheets for recording data - [contact us](/contact/) to request the files
+4. Gather items on the [equipment list](/protocol_pages/equipment/)
 
 ### During fieldwork
 
