@@ -9,7 +9,7 @@ header:
 
 ## Global Grassy Group protocol
 
-<a href="GlobalGrassyGroup/globalgrassygroup.github.io/docs/GGG-protocol-v1.2.pdf" download>Download protocol</a>
+<a href="/docs/GGG-protocol-v1.2.pdf" download>Download protocol</a>
 
 [View protocol online](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
