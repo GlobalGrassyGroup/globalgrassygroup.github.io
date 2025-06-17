@@ -4,6 +4,8 @@ plugins:
 
 locale: "en"
 include: ["_pages"]
+include:
+  - "**/*.pdf"
 title: ""
 logo: "/images/GGG-logo.png"
 
