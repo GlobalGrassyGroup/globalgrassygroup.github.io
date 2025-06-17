@@ -13,4 +13,6 @@ header:
 
 [Protocol Exchange (online)](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
+<a href="docs/GGG-protocol-v1.2.pdf" download>Download Protocol</a>
+
 Or, please [contact us](/contact) to receive the protocol and associated files, or to discuss its applicability to your research questions.
