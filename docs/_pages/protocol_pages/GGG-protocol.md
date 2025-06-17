@@ -9,8 +9,8 @@ header:
 
 ## Global Grassy Group protocol
 
-<a href="/docs/GGG-protocol-v1.2.pdf" download>Download protocol</a>
+<a href="/docs/GGG-protocol-v1.2.pdf" download>Download protocol PDF</a>
 
 [View protocol online](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
-Or, please [contact us](/contact) to receive the protocol and associated files, or to discuss its applicability to your research questions.
+Or, please [contact us](/contact) to request the protocol and associated data collection files, or to discuss its applicability to your research questions.
