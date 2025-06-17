@@ -15,6 +15,6 @@ header:
 
 Or, please [contact us](/contact) to request the protocol and data collection files, or to discuss its applicability to your research questions.
 
-Please cite: JW, CL, SA
+Please cite: JW, CL, SA, GH
 
 
