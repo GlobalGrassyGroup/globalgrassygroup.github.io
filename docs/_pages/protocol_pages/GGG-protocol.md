@@ -9,7 +9,7 @@ header:
 
 ## Global Grassy Group protocol
 
-[Download protocol](https://github.com/GlobalGrassyGroup/globalgrassygroup.github.io/releases/download/v1.2/GGG-protocol-v1.2.pdf )
+[Download protocol](https://github.com/GlobalGrassyGroup/globalgrassygroup.github.io/Releases/download/v1.2/GGG-protocol-v1.2.pdf )
 
 Our **community composition** protocol can be found on [Protocol Exchange](https://doi.org/10.21203/rs.3.pex-1905/v1). 
 
