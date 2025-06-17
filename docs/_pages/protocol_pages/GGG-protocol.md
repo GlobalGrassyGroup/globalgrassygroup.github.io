@@ -13,7 +13,7 @@ header:
 
 [View protocol online](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
-Or, please [contact us](/contact) to request the protocol and data collection files, or to discuss its applicability to your research questions.
+Please [contact us](/contact) to request the data collection files, or to discuss its applicability to your research questions.
 
 If you use the protocol, please reference:
 
