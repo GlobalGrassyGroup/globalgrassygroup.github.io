@@ -13,4 +13,4 @@ header:
 
 [Protocol Exchange (online)](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
-Please [contact us](/contact) to receive the protocol and associated files, or to discuss its applicability to your research questions.
+Or, please [contact us](/contact) to receive the protocol and associated files, or to discuss its applicability to your research questions.
