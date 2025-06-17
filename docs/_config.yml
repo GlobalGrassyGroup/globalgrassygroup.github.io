@@ -5,7 +5,7 @@ plugins:
 locale: "en"
 include:
   - "_pages"
-  - "**/*.pdf"
+  - docs/GGG-protocol-v1.2.pdf
 title: ""
 logo: "/images/GGG-logo.png"
 
