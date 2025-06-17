@@ -3,8 +3,8 @@ plugins:
   - jekyll-include-cache
 
 locale: "en"
-include: ["_pages"]
 include:
+  - "_pages"
   - "**/*.pdf"
 title: ""
 logo: "/images/GGG-logo.png"
