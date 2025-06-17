@@ -17,6 +17,6 @@ header:
 
 Or, please [contact us](/contact) to request the protocol and data collection files, or to discuss its applicability to your research questions.
 
-If you use the protocol, please reference: CL jw sa gh
+If you use the protocol, please reference: CL
 
 
