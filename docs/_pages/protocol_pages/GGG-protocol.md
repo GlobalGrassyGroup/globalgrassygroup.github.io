@@ -9,16 +9,15 @@ header:
 
 ## Global Grassy Group protocol
 
-<a href="{{ '/docs/GGG-protocol-v1.2.pdf' | relative_url }}" download>Download protocol PDF</a>
-
-<a href="/docs/GGG-protocol-v1.2.pdf" download>Download protocol PDF</a>
-
 <a href="/GGG-protocol-v1.2.pdf" download>Download protocol PDF</a>
 
 [View protocol online](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
 Or, please [contact us](/contact) to request the protocol and data collection files, or to discuss its applicability to your research questions.
 
-If you use the protocol, please reference: CL
+If you use the protocol, please reference:
+
+Caroline E.R. Lehmann, Sally Archibald, Maria S. Vorontsova, Gareth P. Hempson, Jakub D. Wieczorkowski 2022. *“Manisa bozaka” or “Counting grass”: Global Grassy Group guide to understanding and measuring the functional and taxonomic composition of ground layer plants* . Protocol exchange
+[https://dx.doi.org/10.21203/rs.3.pex-1905/v1](https://doi.org/10.21203/rs.3.pex-1905/v1)
 
 
