@@ -11,12 +11,12 @@ header:
 
 <a href="docs/GGG-protocol-v1.2.pdf" download>Download protocol PDF</a>
 
-<a href="/docs/GGG-protocol-v1.2.pdf" download="GGG-protocol-v1.2.pdf">Download protocol PDF</a>
+<a href="/docs/GGG-protocol-v1.2.zip" download="GGG-protocol-v1.2.zip">Download protocol PDF</a>
 
 [View protocol online](https://doi.org/10.21203/rs.3.pex-1905/v1) 
 
 Or, please [contact us](/contact) to request the protocol and data collection files, or to discuss its applicability to your research questions.
 
-If you use the protocol, please reference:
+If you use the protocol, please reference: JW
 
 
