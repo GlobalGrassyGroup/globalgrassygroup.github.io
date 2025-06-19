@@ -13,7 +13,7 @@ header:
 Some steps to take before embarking on fieldwork: 
 
 1. Ensure you have correct permissions and permits to collect data and plants
-2. Familiarise yourself with the [GGG protocol](/resources/)
+2. Familiarise yourself with the [GGG protocol](/GGG-protocol/)
 3. Download and print GGG datasheets for recording data - [contact us](/contact/) to request the files
 4. Gather items on the [equipment list](/equipment/)
 
