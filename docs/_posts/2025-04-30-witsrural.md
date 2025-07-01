@@ -2,7 +2,7 @@
 title: "New tools for managing bush encroachment"
 layout: splash
 header:
-  overlay_image: /images/m-5.jpg
+  overlay_image: /images/wr-blog/1.png.jpg
 excerpt: "***By Ruth Francisco and Sally Archibald, April 2025***"
 ---
 
