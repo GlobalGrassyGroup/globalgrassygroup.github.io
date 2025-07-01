@@ -1,3 +1,12 @@
+---
+title: "New tools for managing bush encroachment"
+layout: splash
+header:
+  overlay_image: /images/m-5.jpg
+excerpt: "***By Ruth Francisco and Sally Archibald, April 2025***"
+---
+
+
 Many semi-arid savannas are plagued by bush encroachment which limits grazing capacity and degrades ecosystem processes. Land owners struggle to get support for bush clearing programs as they contradict the narrative that restoration projects should concurrently store carbon. FEFA has teamed up with ReWild Capital to test a method of bush clearing that would convert the cleared biomass into biochar: stable form of carbon. We are trialling a project at the Wits Rural Facility to investigate whether the carbon credits from the biochar can fund the bush clearing, and therefore prove a feasible option for managing bush encroachment at large scales. 
 
 To assess the biodiversity and species composition of the encroached sites, and test how this recovers when the clearing treatments have been put in, we ran a field campaign between April 2 and 7 2025 using the GGG protocol. Researchers from the University of Wits, Department of Biology and environmental Sciences, SANParks Scientific Services (both from South Africa) and Instituto Superior Politecnico Tundavala (Angola), carried out field work at the Wits Rural Facility (an area has not been burned since 1998 and has been managed by researchers at the University of Wits), where two different habitats were sampled, each with 4 plots designated as clear 1, 2, 3 and 4 and as well encroached 1, 2, 3 and 4, making a total of 8 plots sampled using the GGG sampling protocol. 
