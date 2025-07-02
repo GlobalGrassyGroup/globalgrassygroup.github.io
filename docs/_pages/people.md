@@ -46,7 +46,7 @@ I study grasses and everything about them, with a particular focus on tropical A
 #### Anya Courtenay
 _The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
 
-I manage the GGG database and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
+I manage the GGG database, collect field data and support analyses. My work focuses on the functional biogeography of savanna and grassland vegetation with aim to uncover the environmental complexities of habitats occupied by distinct plant communities, especially where underground trees occur in the Afrotropics.
 <br>
 <br>
 <br>
