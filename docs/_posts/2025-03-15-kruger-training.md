@@ -5,9 +5,12 @@ header:
   overlay_image: /images/kruger-blog/k7.JPEG
 excerpt: "***By Anya Courtenay and Caroline Lehmann, March 2025***"
 ---
-We have spent two weeks in Kruger National Park leaning lots at the 22nd savanna science network meeting, seeing incredible wildlife and introducing the Global Grassy Group protocol on the experimental burn plots.
 
-Working with members of the South African National Parks Scientific Services Department, we collected data about the ecology and composition of herbaceous plant communities across four fire regimes. About 150 species were recorded, using the Skukuza herbarium to check the names of our pressed specimens.
+We spent two weeks in Kruger National Park learning lots at the 22nd Savanna Science Network Meeting, watching incredible wildlife and collecting data on the experimental burn plots.
+
+As a method for sampling species composition and some ecological characteristics, we introduced the Global Grassy Group protocol to colleagues from the South African National Parks Scientific Services Department for their long-term vegetation monitoring.  
+
+Around 150 plant species were recorded so far across four fire regimes, for which we used the Skukuza herbarium to check the names of our pressed specimens.
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/kruger-blog/Blog images/1.png" alt="">
