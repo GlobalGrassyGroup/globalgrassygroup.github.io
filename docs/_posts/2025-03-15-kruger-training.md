@@ -3,7 +3,7 @@ title: "Training at the Kruger experimental burn plots"
 layout: splash
 header:
   overlay_image: /images/kruger-blog/k7.JPEG
-excerpt: "***By Anya Courtenay and Caroline Lehmann, March 2025***"
+excerpt: "***By Anya Courtenay, Caroline Lehmann and Sally Archibald, March 2025***"
 ---
 
 We spent two weeks in Kruger National Park learning lots at the 22nd Savanna Science Network Meeting, watching incredible wildlife and collecting data on the experimental burn plots.
@@ -24,6 +24,6 @@ We plan to carry out training on sampling ground-layer diversity again in Kruger
 </figure>
 {: style="text-align: center;"}
 
-Thank you to Corli Wigley-Coetsee, Noel Nzima, Khensani Mkhonto, Isaac Sedibe, Nikisha Singh, Jone Fernando, Adam Devenish, Jakub Wieczorkowski and Sally Archibald for working with us. 
+Thank you to Corli Wigley-Coetsee, Noel Nzima, Khensani Mkhonto, Isaac Sedibe, Nikisha Singh, Jone Fernando, Adam Devenish and Jakub Wieczorkowski for working with us. 
 
 
