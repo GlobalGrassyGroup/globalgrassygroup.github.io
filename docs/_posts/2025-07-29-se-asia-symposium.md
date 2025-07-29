@@ -10,4 +10,9 @@ We organised Global Grassy Group (GGG) field training as part of the first Tropi
 
 During the training, we introduced the GGG framework and discussed how it could be applied to East Asian savannas. We also spent time in the field, using a Scottish grassland ecosystem as a practical example to explore vegetation structure and species composition. It was a great opportunity to connect, share ideas, and think about how to better study and support these unique grassy ecosystems.
 
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/SEAsia-blog/2.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
 Many thanks to the Royal Society of Edinburgh and Royal Botanic Garden Edinburgh for supporting the symposium, and for Tshering Dorji and Susan Eshelman for help running the training. 
