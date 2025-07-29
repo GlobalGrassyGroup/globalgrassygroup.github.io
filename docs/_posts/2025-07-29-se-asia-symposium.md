@@ -15,4 +15,4 @@ During the training, we introduced the GGG framework and discussed how it could 
 </figure>
 {: style="text-align: center;"}
 
-Many thanks to the Royal Society of Edinburgh and Royal Botanic Garden Edinburgh for supporting the symposium, and for Tshering Dorji and Susan Eshelman for help running the training. 
+Many thanks to the Royal Society of Edinburgh and Royal Botanic Garden Edinburgh for supporting the symposium, and to Tshering Dorji and Susan Eshelman for help running the training. 
