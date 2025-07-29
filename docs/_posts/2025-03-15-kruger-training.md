@@ -20,7 +20,7 @@ Around 150 plant species were recorded so far across four fire regimes, for whic
 We plan to carry out training on sampling ground-layer diversity again in Kruger next March, so do reach out if you are interested in joining us for some fun science and plenty of grasses!
 
 <figure style="width: 1000px" class="align-centre">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/kruger-blog/Blog images/2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/kruger-blog/Blog images/3.png" alt="">
 </figure>
 {: style="text-align: center;"}
 
