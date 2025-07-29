@@ -2,7 +2,7 @@
 title: "Training at the Tropical East Asian Savanna Symposium"
 layout: splash
 header:
-  overlay_image: /images/wr-blog/1.png
+  overlay_image: /images/SEAsia-blog/1.png
 excerpt: "***By Jakub Wieczorkowski and Jess Rickenback, June 2025***"
 ---
 
