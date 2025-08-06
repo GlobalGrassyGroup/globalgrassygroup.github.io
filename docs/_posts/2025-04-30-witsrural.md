@@ -28,4 +28,4 @@ Although no visible signs of human disturbance were found, 4 introduced species 
 
 <br>
 
-Fieldwork was led by researchers from Wits University, SAN Parks Scientific Services and Instituto Superior Politecnico Tundavala (Angola). We express our thanks to Twine Wayne (Wits University), Mukhumo Shedron (MalaMala Game Reserve), Mashele Mightman and Masango Elijah (both from South African Environmental Observation Network (SAEON)) and Coetsee Corli (SANParks Scientific Services) for joining us during the surveys.
+Fieldwork was led by researchers from Wits University, SAN Parks Scientific Services and Instituto Superior Politecnico Tundavala (Angola). We express our thanks to Twine Wayne (Wits University), Mukhumo Shedron (MalaMala Game Reserve), Mashele Mightman, Masango Elijah (both from South African Environmental Observation Network (SAEON)) and Corli Wigley-Coetsee (SANParks Scientific Services) for joining us during the surveys.
