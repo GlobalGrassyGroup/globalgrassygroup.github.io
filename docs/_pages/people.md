@@ -75,7 +75,7 @@ I am a PhD student interested in the intersection of ecology, biogeography and d
 <br>
 <br>
 
-## Students and data contributors
+## Data contributors and students
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/olinirina-nanjarisoa.jpg" alt="">
