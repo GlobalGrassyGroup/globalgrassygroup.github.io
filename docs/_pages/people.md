@@ -75,7 +75,7 @@ I am a PhD student interested in the intersection of ecology, biogeography and d
 <br>
 <br>
 
-## Current affiliated students
+## Students and data contributors
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/olinirina-nanjarisoa.jpg" alt="">
@@ -162,4 +162,14 @@ My masters project aims to quantify the effects of long-term agricultural practi
 _Karatina University and Mpala Research Centre, Kenya_
 
 My research examines the responses of savanna ecosystems' herbaceous layer to disturbances, such as livestock stocking rates and prolonged droughts. I also investigate how fine-scale edaphic variations influence the movements of large mammalian herbivores.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/victor-garcia.png" alt="">
+</figure>
 
+#### Víctor Fernández García
+_University of León, Spain_
+
+As an ecologist and pyrogeographer, my research focuses on advancing a comprehensive understanding of fire regimes, encompassing their characterization through remote sensing methods and the examination in the field of the relationships between fire, vegetation, and human societies. My work has primarily targeted Mediterranean and temperate forests in Europe, as well as tropical grasslands and savannas in Africa.
