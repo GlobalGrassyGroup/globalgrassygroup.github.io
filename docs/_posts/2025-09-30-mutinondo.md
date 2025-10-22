@@ -14,3 +14,45 @@ It’s the end of the dry season. The landscape at Mutinondo Wilderness is in li
 {: style="text-align: center;"}
 
 <br>
+We lay out our vegetation transect to span the transition from Miombo to the gentle grassy slopes and down to the dambo drainage line, testing out a new ‘moving window’ design for the Global Grassy Group protocol. We had expected almost all plants to be dormant at this time of year, but the data sheets told a different story. Scattered forbs were in flower and many grasses were (surprisingly) identifiable. Each circular plot, 1m in diameter, is a snapshot of ground-layer plant community composition and is a way to track species that appear, persist, or vanish over space and time.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/3.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<br>
+Alongside the vegetation transect, we installed a series of sensors across three Miombo/dambo transitions to calibrate microclimate models of waterlogging and frost. Soil moisture and temperature, at ground level and at 10cm deep, will be recorded over the year. We also measured other metrics such as tree cover and grass height, which will influence the localised conditions that the sensors pick up. These data will be pooled with comparable transects in Bicuar National Park, Angola, where we sampled last year as part of our project ‘Mapping and Managing Africa’s Grasslands’.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/4.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<br>
+One morning, we had a stark reminder that fire is also a predominant process in the Miombo landscape! Our plot burned with 6m high flames, but it was over quickly thanks to the tireless Mutinondo management team. Walking on the burned area, it was fascinating to see the trees unaffected despite a bit of scorching, unburned trails up and down the transect where we had trampled, and (most) microclimate sensors still functioning.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/5.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<br>
+The fire spanned the whole shallow valley side, up to the opposite slope that was no longer flammable after a management burn 2 months ago. This previous burn already had regrowth and we set up vegetation plots out of curiosity to somewhat predict the near future of our transect. We found almost an entirely different species composition and many more flowers blooming - but the stars of the show were the especially well-prepared underground trees!
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/6.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<br>
+Monitoring vegetation through big fires and small variations in soil moisture helps explain how species composition and ecosystem function shift through cycles of disturbance and recovery. This field season in particular reminded us that grassy ecosystems are always in flux - something best considered from back up on the inselbergs at sunset.
+
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/7.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+<br>
+Thank you to Prof. Sally Arichibald (University of the Witwatersrand, South Africa), Prof. Stephen Syampungani (Copperbelt University, Zambia), Dr. Mwale Chishaleshale (Copperbelt University, Zambia), Dr. Edouard Ilunga (Copperbelt University, Zambia), Mokwani Kaluwe (Division of Forest Research, Zambia), Jone Fernando Junior (University of the Witwatersrand, South Africa) and Dr. Theo Maponga (University of the Witwatersrand, South Africa) who made the fieldwork fun and efficient! Many thanks also to Steyl Prinsloo Heyns and Kyla Fick for facilitating our research at Mutinondo. This work was funded by South Africa’s National Research Foundation, the Oppenheimer Generations Research and Conservation Future Ecosystems for Africa program, and the European Commission.
+
