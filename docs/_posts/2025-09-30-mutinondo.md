@@ -14,7 +14,7 @@ It’s the end of the dry season. The landscape at Mutinondo Wilderness is in li
 {: style="text-align: center;"}
 
 <br>
-We lay out our vegetation transect to span the transition from Miombo to the gentle grassy slopes and down to the dambo drainage line, testing out a new ‘moving window’ design for the Global Grassy Group protocol. We had expected almost all plants to be dormant at this time of year, but the data sheets told a different story. Scattered forbs were in flower and many grasses were (surprisingly) identifiable. Each circular plot, 1m in diameter, is a snapshot of ground-layer plant community composition and is a way to track species that appear, persist, or vanish over space and time.
+We laid out our transect to span the transition from Miombo to the gentle grassy slopes and down to the dambo drainage line. We tested out a new ‘moving window’ design for the Global Grassy Group protocol for recording herbaceous species and trained researchers who are commencing projects in Zambia, Democratic Republic of the Congo, Zimbabwe and South Africa. We had expected almost all plants to be dormant at this time of year, but the data sheets told a different story. Scattered forbs were in flower and many grasses were (surprisingly) identifiable. Each circular plot, 1m in diameter, is a snapshot of ground-layer plant community composition and is a way to track species that appear, persist, or vanish over space and time.
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/3.png" alt="">
