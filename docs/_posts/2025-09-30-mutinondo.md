@@ -6,7 +6,7 @@ header:
 excerpt: "***By Anya Courtenay, September 2025***"
 ---
 
-It’s the end of the dry season and the landscape at [Mutinondo Wilderness](https://www.mutinondozambia.com/) is in limbo as it awaits the first rains. From up on the granite inselbergs, you can look out across the mosaic of miombo woodland flushing new red leaves and dambo wetlands that are golden with dense dry grasses. Patches of blackened fire scars already show green signs of regrowth.
+It’s the end of the dry season and the landscape at [Mutinondo Wilderness](https://www.mutinondozambia.com/) is in limbo as it awaits the first rains. From up on the granite inselbergs, you can look out across the mosaic of miombo woodland flushing its new red leaves and dambo wetlands that are golden with dense dry grasses. Patches of blackened fire scars already show green signs of regrowth.
 
 <figure style="width: 1000px" class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mu-blog/2.png" alt="">
