@@ -106,29 +106,7 @@ I am a PhD student working on the taxonomy of grasses, especially the Poaceae sp
 #### Diana Rabeharison
 _Kew Madagascar Conservation Centre and University of Antananarivo, Madagascar_
 
-As a research assistant, I conduct extensive fieldwork in Madagascar to understand how vegetation and biodiversity influence carbon stocks, focusing on the central highlands of Madagascar. My work explores the  impacts of land-use changes and Pinus invasions on carbon storage, while forecasting potential future shifts in carbon dynamics and biodiversity.
-<br>
-<br>
-<br>
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
-</figure> 
-
-#### Susan Eshelman
-_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
-
-I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
-<br>
-<br>
-<br>
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tshering-dorji.jpg" alt="">
-</figure> 
-
-#### Tshering Dorji
-_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
-
-I am interested in grasses and the ecology of Himalayan grassland ecosystems and understanding their links to the environment, climate and people. I am currently studying the dynamics of woody encroachment in Bhutan’s open ecosystems and the impacts on biodiversity, soil and communities by combining remote sensing, functional ecology and social research.
+As a research assistant, I conduct extensive fieldwork in Madagascar to understand how vegetation and biodiversity influence carbon stocks, focusing on the central highlands of Madagascar. My work explores the impacts of land-use changes and Pinus invasions on carbon storage, while forecasting potential future shifts in carbon dynamics and biodiversity.
 <br>
 <br>
 <br>
@@ -184,3 +162,25 @@ My research examines the responses of savanna ecosystems' herbaceous layer to di
 _University of León, Spain_
 
 As an ecologist and pyrogeographer, my research focuses on advancing a comprehensive understanding of fire regimes, encompassing their characterization through remote sensing methods and the examination in the field of the relationships between fire, vegetation, and human societies. My work has primarily targeted Mediterranean and temperate forests in Europe, as well as tropical grasslands and savannas in Africa.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
+</figure> 
+
+#### Susan Eshelman
+_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
+
+I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tshering-dorji.jpg" alt="">
+</figure> 
+
+#### Tshering Dorji
+_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
+
+I am interested in grasses and the ecology of Himalayan grassland ecosystems and understanding their links to the environment, climate and people. I am currently studying the dynamics of woody encroachment in Bhutan’s open ecosystems and the impacts on biodiversity, soil and communities by combining remote sensing, functional ecology and social research.
