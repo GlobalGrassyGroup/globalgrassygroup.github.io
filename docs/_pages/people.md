@@ -110,34 +110,13 @@ As a research assistant, I conduct extensive fieldwork in Madagascar to understa
 <br>
 <br>
 <br>
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
-</figure> 
 
-#### Susan Eshelman
-_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
-
-I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
-<br>
-<br>
-<br>
-<figure style="width: 200px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tshering-dorji.jpg" alt="">
-</figure> 
-
-#### Tshering Dorji
-_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
-
-I am interested in grasses and the ecology of Himalayan grassland ecosystems and understanding their links to the environment, climate and people. I am currently studying the dynamics of woody encroachment in Bhutan’s open ecosystems and the impacts on biodiversity, soil and communities by combining remote sensing, functional ecology and social research.
-<br>
-<br>
-<br>
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/telmo-antonio.jpg" alt="">
 </figure>
 
 #### Telmo António
-_The University of Coimbra, Portugal and Lisima Foundation, Angola_
+_Lisima Foundation, Angola and The University of Coimbra, Portugal_
 
 My PhD research aim is to understand whether fires threaten the existence of the large peatlands on the headwaters of the Okavango in Angola and how peatland agriculture interacts with fire. I am comparing the impact of early and late fires on peatlands and analyzing the changes that agriculture brings. 
 <br>
@@ -166,6 +145,17 @@ My research examines the responses of savanna ecosystems' herbaceous layer to di
 <br>
 <br>
 <figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/ruth-francisco.png" alt="">
+</figure>
+
+#### Ruth Cristóvão Francisco
+_Instituto Superior Politécnico Tundavala, Huíla-Lubango, Angola_
+
+I have a deep interest in the study and preservation of African tropical flora, especially in the field of plant taxonomy and how each species tells part of the story of our ecosystems. I am a master's student in Biodiversity, Genetics and Conservation and am currently conducting research on the endemic flora of the Humpata Plateau. My work aims to create a digital platform that gathers and makes information available on these species, as well as mapping their potential distribution.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/victor-garcia.png" alt="">
 </figure>
 
@@ -173,3 +163,25 @@ My research examines the responses of savanna ecosystems' herbaceous layer to di
 _University of León, Spain_
 
 As an ecologist and pyrogeographer, my research focuses on advancing a comprehensive understanding of fire regimes, encompassing their characterization through remote sensing methods and the examination in the field of the relationships between fire, vegetation, and human societies. My work has primarily targeted Mediterranean and temperate forests in Europe, as well as tropical grasslands and savannas in Africa.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/susan-eshelman.jpeg" alt="">
+</figure> 
+
+#### Susan Eshelman
+_The University of Edinburgh, Royal Botanic Garden Edinburgh and Royal Botanic Gardens Kew, United Kingdom_
+
+I am a PhD researcher looking at grassy ecosystems globally. In particular, my research explores how environmental drivers and disturbances shape grassland ecosystems, focusing on the functional traits of grasses in Madagascar and Scotland to understand ecological patterns across tropical and temperate biomes.
+<br>
+<br>
+<br>
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tshering-dorji.jpg" alt="">
+</figure> 
+
+#### Tshering Dorji
+_The University of Edinburgh and Royal Botanic Garden Edinburgh, United Kingdom_
+
+I am interested in grasses and the ecology of Himalayan grassland ecosystems and understanding their links to the environment, climate and people. I am currently studying the dynamics of woody encroachment in Bhutan’s open ecosystems and the impacts on biodiversity, soil and communities by combining remote sensing, functional ecology and social research.
