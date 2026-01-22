@@ -22,7 +22,7 @@ All data within the GGG database are private by default. With the exception of b
 
 Any request to use GGG data must be made to the database manager. Upon receiving a request, the manager will act as an intermediary by putting the prospective data user in direct contact with the relevant data owner(s). 
 
-Access to data is granted only with the explicit permission from the data owner(s). As part of this process, data owners are consulted on the proposed use of their data, including the scope of analyses and intended outputs. In line with GGG principals, co-authorship should be offered to data owners on any publications arising from use of their data, unless an alternative form of contribution or acknowledgement is mutually agreed (see above).
+Access to data is granted only with the explicit permission from the data owner(s). As part of this process, data owners are consulted on the proposed use of their data, including the scope of analyses and intended outputs. In line with GGG principals, co-authorship should be offered to data owners on any publications arising from use of their data, unless an alternative form of contribution or acknowledgement is mutually agreed.
 
 While all data remain private unless specified, the GGG strongly encourages data sharing, collaboration and the eventual publication / public release of datasets where appropriate and feasible.
 
