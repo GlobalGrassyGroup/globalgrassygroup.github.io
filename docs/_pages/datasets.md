@@ -13,7 +13,7 @@ Please [contact](/contact) GGG to enquire about accessing data or to submit data
 Find out more about our data policies [here](/policies).
 
 
-#### List of publications which used GGG protocol or data
+#### List of publications which used GGG data
 
 [Wieczorkowski, J.D., Lehmann C.E.R., Archibald S., Banda S., Goyder D.J., Kaluwe M., Kapinga K., Larridon I., Mashau A. C., Phiri E., Syampungani S. (2024) 'Fire facilitates ground layer plant diversity in a Miombo ecosystem', _Annals of Botany_, 133(5-6), Pages 743–756.](https://academic.oup.com/aob/article/133/5-6/743/7625940)
 
