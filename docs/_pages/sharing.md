@@ -1,8 +1,18 @@
+---
+permalink: /sharing/
+layout: splash
+hidden: true
+title: "Data sharing policy"
+header:
+  overlay_image: /images/grassy2.JPG
+---
+<br>
+
 #### Data sharing policy
 
-All data within the GGG database are private by default. Access to full datasets is restricted to database managers and the original data contributors.  
+All data within the GGG database are private by default. With the exception of basic plot-level metadata (e.g. geographic coordinates displayed on the GGG website), access to full datasets is restricted to database managers and the original data contributors. Data are stored in Microsoft Access and are not directly downloadable or openly distributed.
 
-Any request to use GGG data must be made to the database manager. Upon receiving a request, the manager will act as an intermediary by putting the prospective data user in direct contact with the relevant data owner(s).
+Any request to use GGG data must be made to the database manager. Upon receiving a request, the manager will act as an intermediary by putting the prospective data user in direct contact with the relevant data owner(s). 
 
 Access to data is granted only with the explicit permission from the data owner(s). As part of this process, data owners are consulted on the proposed use of their data, including the scope of analyses and intended outputs. In line with GGG principals, co-authorship should be offered to data owners on any publications arising from use of their data, unless an alternative form of contribution or acknowledgement is mutually agreed (see above).
 
