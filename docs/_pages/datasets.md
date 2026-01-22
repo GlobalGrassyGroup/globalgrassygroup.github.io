@@ -12,7 +12,6 @@ Please [contact](/contact) GGG to enquire about accessing data or to submit data
 
 Find out more about our data policies [here](/policies).
 
-<br>
 
 #### List of publications which used GGG protocol or data
 
