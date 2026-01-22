@@ -1,5 +1,5 @@
 ---
-permalink: /sharing/
+permalink: /policies/
 layout: splash
 hidden: true
 title: "Data policies"
