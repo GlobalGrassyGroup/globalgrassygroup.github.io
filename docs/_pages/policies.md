@@ -2,13 +2,21 @@
 permalink: /sharing/
 layout: splash
 hidden: true
-title: "Data sharing policy"
+title: "Data policies"
 header:
   overlay_image: /images/grassy2.JPG
 ---
 <br>
 
-#### Data sharing policy
+### Data contribution 
+
+It is not a requirement to host your data in the main GGG database. However, we would like to encourage data owners to submit their data, as doing so supports the broader goal of fostering a comparative and standardised approach to data collection and management. By contributing data, researchers help build a collaborative resource that facilitates cross-location analyses, enhances reproducibility, and strengthens the scientific value of individual datasets. Storing data in a repository is increasingly a requirement by journals and funding bodies as part of publications and policies. The centralised GGG database maintains consistency, transparency and accessibility of ecological data.
+
+The database is hosted in Microsoft Access, providing a secure and structured environment for long-term data storage. It is advised that data is submitted to be stored in the main GGG database as soon as possible after collection.
+
+Data should be entered into the files *GGGsubmit_A_sp.xlsx* if full species composition was completed, or *GGGsubmit_B_func.xlsx* if functional group composition was recorded.
+
+#### Data access
 
 All data within the GGG database are private by default. With the exception of basic plot-level metadata (e.g. geographic coordinates displayed on the GGG website), access to full datasets is restricted to database managers and the original data contributors. Data are stored in Microsoft Access and are not directly downloadable or openly distributed.
 
