@@ -8,7 +8,7 @@ header:
 ---
 <br>
 
-Please [contact](/contact) GGG to enquire about accessing data. Find out more about our data sharing policy [here](/policies).
+Please [contact](/contact) GGG to enquire about accessing data. Find out more about our data policies [here](/policies).
 
 <br>
 
