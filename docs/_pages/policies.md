@@ -8,7 +8,7 @@ header:
 ---
 <br>
 
-### Data contribution 
+#### Data contribution 
 
 It is not a requirement to host your data in the main GGG database. However, we would like to encourage data owners to submit their data, as doing so supports the broader goal of fostering a comparative and standardised approach to data collection and management. By contributing data, researchers help build a collaborative resource that facilitates cross-location analyses, enhances reproducibility, and strengthens the scientific value of individual datasets. Storing data in a repository is increasingly a requirement by journals and funding bodies as part of publications and policies. The centralised GGG database maintains consistency, transparency and accessibility of ecological data.
 
