@@ -15,7 +15,7 @@ Find out more about our data policies [here](/policies).
 
 #### List of publications which used GGG data
 
-[Rickenback, J., Arthan, W., Pennington, R. T., Vorontsova, M. S., Peou, Y., France, H., and Lehmann, C. E. R. (2026) 'Grass Communities Differ Floristically Under Different Dominant Trees in Savannas in Thailand and Cambodia'. *Biotropica*, 58(2)](https://onlinelibrary.wiley.com/doi/10.1111/btp.70166)
+[Rickenback, J., Arthan, W., Pennington, R. T., Vorontsova, M. S., Peou, Y., France, H., and Lehmann, C. E. R. (2026) 'Grass Communities Differ Floristically Under Different Dominant Trees in Savannas in Thailand and Cambodia'. *Biotropica*, 58(2).](https://onlinelibrary.wiley.com/doi/10.1111/btp.70166)
 
 [Wieczorkowski, J.D., Lehmann C.E.R., Archibald S., Banda S., Goyder D.J., Kaluwe M., Kapinga K., Larridon I., Mashau A. C., Phiri E., and Syampungani S. (2024) 'Fire facilitates ground layer plant diversity in a Miombo ecosystem'. *Annals of Botany*, 133(5-6), Pages 743–756.](https://academic.oup.com/aob/article/133/5-6/743/7625940)
 
