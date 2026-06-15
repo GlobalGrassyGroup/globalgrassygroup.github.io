@@ -6,7 +6,7 @@ header:
 excerpt: "***By Edouard Ilunga, May 2026***"
 ---
 
-On departure day, excitement was high. We collected our gear: backpacks, sampling tools, devices, and field notebooks. Our driver was ready to navigate the rough roads and, after a long, scenic journey from Lubumbashi in the Democratic Republic of the Congo (DRC), we finally reached the gates of Kundelungu National Park. From the moment we entered, we were struck by the wild beauty surrounding us. The vast stretches of wet savanna, with their colourful patches of floodplain forests, were fascinating (Figure 1).
+Excitement was high on departure day. We collected our gear: backpacks, sampling tools, devices, and field notebooks. Our driver was ready to navigate the rough roads and, after a long, scenic journey from Lubumbashi in the Democratic Republic of the Congo (DRC), we finally reached the gates of Kundelungu National Park. From the moment we entered, we were struck by the wild beauty surrounding us. The vast stretches of wet savanna, with their colourful patches of floodplain forests, were fascinating (Figure 1).
 
 
 <figure style="width: 1000px" class="align-centre">
