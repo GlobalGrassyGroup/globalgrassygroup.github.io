@@ -2,7 +2,7 @@
 title: "Plant diversity of wet savanna springheads in the DRC"
 layout: splash
 header:
-  overlay_image: /images/darwin-blog/1.png
+  overlay_image: /images/drc-blog/1.png
 excerpt: "***By Edouard Ilunga, May 2026***"
 ---
 
