@@ -3,7 +3,7 @@ title: "Plant diversity of wet savanna springheads in the DRC"
 layout: splash
 header:
   overlay_image: /images/drc-blog/1.png
-excerpt: "***By Edouard Ilunga, May 2026***"
+excerpt: "***By  Edouard Ilunga wa Ilunga and Stephen Syampungani, May 2026***"
 ---
 
 Excitement was high on departure day. We collected our gear: backpacks, sampling tools, devices, and field notebooks. Our driver was ready to navigate the rough roads and, after a long, scenic journey from Lubumbashi in the Democratic Republic of the Congo (DRC), we finally reached the gates of Kundelungu National Park. From the moment we entered, we were struck by the wild beauty surrounding us. The vast stretches of wet savanna, with their colourful patches of floodplain forests, were fascinating (Figure 1).
