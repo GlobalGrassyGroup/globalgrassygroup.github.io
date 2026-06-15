@@ -8,6 +8,15 @@ excerpt: "***By Edouard Ilunga, May 2026***"
 
 On departure day, excitement was high. We collected our gear: backpacks, sampling tools, devices, and field notebooks. Our driver was ready to navigate the rough roads and, after a long, scenic journey from Lubumbashi, we finally reached the gates of Kundelungu National Park. From the moment we entered, we were struck by the wild beauty surrounding us. The vast stretches of wet savanna, with their colourful patches of floodplain forests, were fascinating.
 
+<figure style="width: 1000px" class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/darwin-blog/3.png" alt="">
+</figure>
+{: style="text-align: center;"}
+
+*Figure 2. The process of collecting and identifying ground-layer plants, from left to right: observing in the field, pressing specimens, and identifying using reference collections.*
+{: style="text-align: center;"}
+<br>
+
 Kundelungu National Park is a biodiversity hotspot. Established in 1970 to protect the region's unique ecosystems, including the cheetah and Burchell's zebra, the park is home to an impressive variety of flora and fauna. The Kundelungu High Plateau is the source of seven rivers, and the park reaches an altitude of about 1,700 m. 
 
 Our team had the privilege of conducting a research project focused on plant diversity in the wet savannas at the springhead of the Lutshipuka River. This mission aimed to establish a system of permanent plots to study the biodiversity of the wet savannas.
