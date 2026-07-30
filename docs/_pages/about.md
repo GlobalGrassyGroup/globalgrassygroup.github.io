@@ -21,9 +21,9 @@ Data about grasses and forbs are not always collected despite the ground layer d
 
 This network gathers ecologists and biologists aiming to standardise and improve vegetation sampling in grassy biomes. We host a database of ground-layer species composition data collected across different environmental gradients such as rainfall, fire and land-use.
 
-On this website, you can find our suggested [sampling protocols](/resources/), a [workflow](/workflow/) for undertaking fieldwork and managing data, and [publications](/datasets/) that used GGG. 
+On this website, you can find our suggested [sampling protocols](/resources/), a [workflow](/workflow/) for undertaking fieldwork and [managing data](/protocol_pages/data-management/), and [publications](/datasets/) that used GGG. 
 
-If you would like to contribute your data to GGG, please read our [participation guide]() and [contact us](/contact/).
+If you would like to contribute your data to the GGG Database or request datasets, please read our [Intellectual Property Guidelines](/protocol_pages/intellectual-property/) and [contact us](/contact/).
 
 
 ## Herbaria
