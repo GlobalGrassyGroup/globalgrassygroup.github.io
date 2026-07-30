@@ -41,6 +41,20 @@ feature_row:
     url: /traits-protocol/
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /images/trait.JPG
+    alt: "IP"
+    title: "Intellectual property"
+    excerpt: "Guidelines for submitting or requesting GGG data"
+    url: /intellectual-property/
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /images/trait.JPG
+    alt: "data"
+    title: "Data management"
+    excerpt: "Guidelines for managing GGG data"
+    url: /data-management/
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 <br>
 {% include feature_row %}
